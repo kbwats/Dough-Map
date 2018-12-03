@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Home</name>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Maiden Home by Nidhi</name>
+      <address>Pieces on display at MM.Lafleur Showroom: 1424 K St NW Washington, D.C. 20005</address>
+      <description><![CDATA[Store Address:: Pieces on display at MM.Lafleur Showroom: 1424 K St NW Washington, D.C. 20005<br>Website:: https://maidenhome.com/<br>Category:: Home<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Pieces on display at MM.Lafleur Showroom: 1424 K St NW Washington, D.C. 20005</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://maidenhome.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Home</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Maiden Home by Nidhi</name>
+      <address>Pieces on display at MM.Lafleur Showroom: 119 Newbury St. Boston, MA 02116</address>
+      <description><![CDATA[Store Address:: Pieces on display at MM.Lafleur Showroom: 119 Newbury St. Boston, MA 02116<br>Website:: https://maidenhome.com/<br>Category:: Home<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Pieces on display at MM.Lafleur Showroom: 119 Newbury St. Boston, MA 02116</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://maidenhome.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Home</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

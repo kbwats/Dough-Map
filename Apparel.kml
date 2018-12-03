@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Apparel</name>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Lunya by Ashley</name>
+      <address>1032 Broadway Santa Monica, CA 90401 USA</address>
+      <description><![CDATA[Address:: 1032 Broadway Santa Monica, CA 90401 USA<br>Website:: https://www.lunya.co/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>1032 Broadway Santa Monica, CA 90401 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.lunya.co/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Lively by Michelle</name>
+      <address>224 Mulberry St. New York, New York 10012 USA</address>
+      <description><![CDATA[Address:: 224 Mulberry St. New York, New York 10012 USA<br>Website:: https://www.wearlively.com<br>Category:: Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>224 Mulberry St. New York, New York 10012 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.wearlively.com</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Classic Rock Couture by Claire</name>
+      <address>29 Main Street Bisbee, Arizona 85603 USA</address>
+      <description><![CDATA[Address:: 29 Main Street Bisbee, Arizona 85603 USA<br>Website:: https://www.etsy.com/shop/classicrockcouture<br>Category:: Apparel<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>29 Main Street Bisbee, Arizona 85603 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.etsy.com/shop/classicrockcouture</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Sway and Cake by Tamara</name>
+      <address>1429 12th Ave Suite D Seattle, Washington 98112 USA</address>
+      <description><![CDATA[Address:: 1429 12th Ave Suite D Seattle, Washington 98112 USA<br>Website:: https://www.swayandcake.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>1429 12th Ave Suite D Seattle, Washington 98112 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.swayandcake.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Modern Citizen by Jess and Lizzie</name>
+      <address>2078 Union St. San Francisco, California 94123 USA</address>
+      <description><![CDATA[Address:: 2078 Union St. San Francisco, California 94123 USA<br>Website:: https://www.moderncitizen.com<br>Category:: Apparel, Home<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>2078 Union St. San Francisco, California 94123 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.moderncitizen.com</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Home</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wildfang by Emma, Julia, and Taralyn</name>
+      <address>3430 W Sunset Blvd Los Angeles, California 90026 USA</address>
+      <description><![CDATA[Address:: 3430 W Sunset Blvd Los Angeles, California 90026 USA<br>Website:: https://www.wildfang.com/<br>Category:: Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>3430 W Sunset Blvd Los Angeles, California 90026 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.wildfang.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wildfang by Emma, Julia, and Taralyn</name>
+      <address>404 SW 10th Ave Portland, Oregon 97205 USA</address>
+      <description><![CDATA[Address:: 404 SW 10th Ave Portland, Oregon 97205 USA<br>Website:: https://www.wildfang.com/<br>Category:: Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>404 SW 10th Ave Portland, Oregon 97205 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.wildfang.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wildfang by Emma, Julia, and Taralyn</name>
+      <address>252 Lafayette St New York, New York 10012</address>
+      <description><![CDATA[Address:: 252 Lafayette St New York, New York 10012<br>Website:: https://www.wildfang.com/<br>Category:: Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>252 Lafayette St New York, New York 10012</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.wildfang.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Wildfang by Emma, Julia, and Taralyn</name>
+      <address>1230 SE Grand Ave Portland, Oregon 97214</address>
+      <description><![CDATA[Address:: 1230 SE Grand Ave Portland, Oregon 97214<br>Website:: https://www.wildfang.com/<br>Category:: Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>1230 SE Grand Ave Portland, Oregon 97214</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.wildfang.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>130 W 42nd St, 13th Floor New York, New York 10036</address>
+      <description><![CDATA[Address:: 130 W 42nd St, 13th Floor New York, New York 10036<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>130 W 42nd St, 13th Floor New York, New York 10036</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>611 Broadway, Suite 401 New York, New York 10012</address>
+      <description><![CDATA[Address:: 611 Broadway, Suite 401 New York, New York 10012<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>611 Broadway, Suite 401 New York, New York 10012</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>230 West Huron Street Chicago, Illinois 60654</address>
+      <description><![CDATA[Address:: 230 West Huron Street Chicago, Illinois 60654<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>230 West Huron Street Chicago, Illinois 60654</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>1424 K St NW Washington, D.C. 20005</address>
+      <description><![CDATA[Address:: 1424 K St NW Washington, D.C. 20005<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>1424 K St NW Washington, D.C. 20005</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>119 Newbury St Boston, MA 02116</address>
+      <description><![CDATA[Address:: 119 Newbury St Boston, MA 02116<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>119 Newbury St Boston, MA 02116</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>23 Grant Ave, 5th Floor San Francisco, California 94108</address>
+      <description><![CDATA[Address:: 23 Grant Ave, 5th Floor San Francisco, California 94108<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>23 Grant Ave, 5th Floor San Francisco, California 94108</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>272 Buckhead Ave Atlanta, Georgia 30305</address>
+      <description><![CDATA[Address:: 272 Buckhead Ave Atlanta, Georgia 30305<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>272 Buckhead Ave Atlanta, Georgia 30305</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>1625 Chestnut St. Philidelphia, PA 19103</address>
+      <description><![CDATA[Address:: 1625 Chestnut St. Philidelphia, PA 19103<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>1625 Chestnut St. Philidelphia, PA 19103</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>MM.LaFleur by Sarah, Miyako and Narie</name>
+      <address>5120 Woodway Dr. Suite 7000 Houston, Texas  77056</address>
+      <description><![CDATA[Address:: 5120 Woodway Dr. Suite 7000 Houston, Texas  77056<br>Website:: https://mmlafleur.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>5120 Woodway Dr. Suite 7000 Houston, Texas  77056</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mmlafleur.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bandier by Jennifer</name>
+      <address>108 Fifth Ave New York, New York 1011</address>
+      <description><![CDATA[Address:: 108 Fifth Ave New York, New York 1011<br>Website:: https://www.bandier.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>108 Fifth Ave New York, New York 1011</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.bandier.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bandier by Jennifer</name>
+      <address>150 E 72nd St New York, New York 10021</address>
+      <description><![CDATA[Address:: 150 E 72nd St New York, New York 10021<br>Website:: https://www.bandier.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>150 E 72nd St New York, New York 10021</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.bandier.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bandier by Jennifer</name>
+      <address>2104 Northern Blvd. Manhasset, New York 11030</address>
+      <description><![CDATA[Address:: 2104 Northern Blvd. Manhasset, New York 11030<br>Website:: https://www.bandier.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>2104 Northern Blvd. Manhasset, New York 11030</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.bandier.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bandier by Jennifer</name>
+      <address>8A Highland Park Village Dallas, Texas 75205</address>
+      <description><![CDATA[Address:: 8A Highland Park Village Dallas, Texas 75205<br>Website:: https://www.bandier.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>8A Highland Park Village Dallas, Texas 75205</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.bandier.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bandier by Jennifer</name>
+      <address>44B Main Street Southampton, New York 11968</address>
+      <description><![CDATA[Address:: 44B Main Street Southampton, New York 11968<br>Website:: https://www.bandier.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>44B Main Street Southampton, New York 11968</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.bandier.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bandier by Jennifer</name>
+      <address>636 Broadway New York, New York 10012</address>
+      <description><![CDATA[Address:: 636 Broadway New York, New York 10012<br>Website:: https://www.bandier.com/<br>Category:: Apparel<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>636 Broadway New York, New York 10012</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.bandier.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Casa Artelexia 3803 Ray Street San Diego, California 92104</address>
+      <description><![CDATA[Address:: Casa Artelexia 3803 Ray Street San Diego, California 92104<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Casa Artelexia 3803 Ray Street San Diego, California 92104</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Ibiss Boutique 1100 Lincoln Ave San Jose, California</address>
+      <description><![CDATA[Address:: Ibiss Boutique 1100 Lincoln Ave San Jose, California<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Ibiss Boutique 1100 Lincoln Ave San Jose, California</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Karma Fashion Lounge 415 Alvarado St Monterey, California 93940</address>
+      <description><![CDATA[Address:: Karma Fashion Lounge 415 Alvarado St Monterey, California 93940<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Karma Fashion Lounge 415 Alvarado St Monterey, California 93940</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address><![CDATA[LUBA Gift Shop & Art Studio 1067 S 13th Sq. Vero Beach, Florida 32960]]></address>
+      <description><![CDATA[Address:: LUBA Gift Shop & Art Studio 1067 S 13th Sq. Vero Beach, Florida 32960<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value><![CDATA[LUBA Gift Shop & Art Studio 1067 S 13th Sq. Vero Beach, Florida 32960]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Curio Goods 1046 Commercial Drive Tallahassee, Florida 32310</address>
+      <description><![CDATA[Address:: Curio Goods 1046 Commercial Drive Tallahassee, Florida 32310<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Curio Goods 1046 Commercial Drive Tallahassee, Florida 32310</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address><![CDATA[Please Don't Tell Shop, Aventura Mall Miami, Florida]]></address>
+      <description><![CDATA[Address:: Please Don't Tell Shop, Aventura Mall Miami, Florida<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value><![CDATA[Please Don't Tell Shop, Aventura Mall Miami, Florida]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Luxe Apothetique 11501 Century Oaks Terrace Austin, Texas 78758</address>
+      <description><![CDATA[Address:: Luxe Apothetique 11501 Century Oaks Terrace Austin, Texas 78758<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Luxe Apothetique 11501 Century Oaks Terrace Austin, Texas 78758</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Luxe Apothetique 2nd Street District 201 W 2nd St Austin, Texas 78701</address>
+      <description><![CDATA[Address:: Luxe Apothetique 2nd Street District 201 W 2nd St Austin, Texas 78701<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Luxe Apothetique 2nd Street District 201 W 2nd St Austin, Texas 78701</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Luxe Boutique, 117 E Jackson Harlington, Texas 78550</address>
+      <description><![CDATA[Address:: Luxe Boutique, 117 E Jackson Harlington, Texas 78550<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Luxe Boutique, 117 E Jackson Harlington, Texas 78550</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Maria Bonita Boutique 623 E St. Charles St Brownsville, Texas 78520</address>
+      <description><![CDATA[Address:: Maria Bonita Boutique 623 E St. Charles St Brownsville, Texas 78520<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Maria Bonita Boutique 623 E St. Charles St Brownsville, Texas 78520</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>The Style Union 6308 N 10th St McAllen, Texas</address>
+      <description><![CDATA[Address:: The Style Union 6308 N 10th St McAllen, Texas <br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>The Style Union 6308 N 10th St McAllen, Texas </value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address><![CDATA[Yaya's Closet 214 W Jackson Harlingen, Texas]]></address>
+      <description><![CDATA[Address:: Yaya's Closet 214 W Jackson Harlingen, Texas<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value><![CDATA[Yaya's Closet 214 W Jackson Harlingen, Texas]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address><![CDATA[Valentine's - 3820 Piedmont Avenue Oakland, CA 94611]]></address>
+      <description><![CDATA[Address:: Valentine's - 3820 Piedmont Avenue Oakland, CA 94611<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value><![CDATA[Valentine's - 3820 Piedmont Avenue Oakland, CA 94611]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Redemption - 241 E Campbell Ave A Campbell, California 95008</address>
+      <description><![CDATA[Address:: Redemption - 241 E Campbell Ave A Campbell, California 95008<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Redemption - 241 E Campbell Ave A Campbell, California 95008</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Prim Boutique - 560 Main St Pleasanton, California 94566</address>
+      <description><![CDATA[Address:: Prim Boutique - 560 Main St Pleasanton, California 94566<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Prim Boutique - 560 Main St Pleasanton, California 94566</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>2281 La Playa Drive South, Costa Mesa, California 92627</address>
+      <description><![CDATA[Address:: 2281 La Playa Drive South, Costa Mesa, California 92627<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>2281 La Playa Drive South, Costa Mesa, California 92627</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>1306 Castro Street San Francisco, California 94114</address>
+      <description><![CDATA[Address:: 1306 Castro Street San Francisco, California 94114<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>1306 Castro Street San Francisco, California 94114</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Flicka - 204 N Larchmont Blvd Los Angeles, California 90004</address>
+      <description><![CDATA[Address:: Flicka - 204 N Larchmont Blvd Los Angeles, California 90004<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Flicka - 204 N Larchmont Blvd Los Angeles, California 90004</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Lil Bit - 8302 W 3rd St Los Angeles, California 90048</address>
+      <description><![CDATA[Address:: Lil Bit - 8302 W 3rd St Los Angeles, California 90048<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Lil Bit - 8302 W 3rd St Los Angeles, California 90048</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Sunset Kids - 8671 Sunset Blvd West Hollywood, California 90069</address>
+      <description><![CDATA[Address:: Sunset Kids - 8671 Sunset Blvd West Hollywood, California 90069<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Sunset Kids - 8671 Sunset Blvd West Hollywood, California 90069</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Treehaus - 3153 Glendale Blvd Los Angeles, California 90039</address>
+      <description><![CDATA[Address:: Treehaus - 3153 Glendale Blvd Los Angeles, California 90039<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Treehaus - 3153 Glendale Blvd Los Angeles, California 90039</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Vroom Vroom Bitsy Boo - 5031 York Blvd Los Angeles, California 90042</address>
+      <description><![CDATA[Address:: Vroom Vroom Bitsy Boo - 5031 York Blvd Los Angeles, California 90042<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Vroom Vroom Bitsy Boo - 5031 York Blvd Los Angeles, California 90042</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Hug Bug - 900 W Glenoaks Blvd Unit H Glendale, California 91202</address>
+      <description><![CDATA[Address:: Hug Bug - 900 W Glenoaks Blvd Unit H Glendale, California 91202<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Hug Bug - 900 W Glenoaks Blvd Unit H Glendale, California 91202</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>The Reckless Unicorn - 2124 Hillhurst Ave Los Angeles, California 90027</address>
+      <description><![CDATA[Address:: The Reckless Unicorn - 2124 Hillhurst Ave Los Angeles, California 90027<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>The Reckless Unicorn - 2124 Hillhurst Ave Los Angeles, California 90027</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Jack + Emmy - 10191 Donner Pass Rd #3 Truckee, California 96161</address>
+      <description><![CDATA[Address:: Jack + Emmy - 10191 Donner Pass Rd #3 Truckee, California 96161<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Jack + Emmy - 10191 Donner Pass Rd #3 Truckee, California 96161</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Twinkle - 533 E Hopkins Ave #B Aspen, Colorado 81611</address>
+      <description><![CDATA[Address:: Twinkle - 533 E Hopkins Ave #B Aspen, Colorado 81611<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Twinkle - 533 E Hopkins Ave #B Aspen, Colorado 81611</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Wishes - 1099 S Gaylord St Denver, Colorado 80209</address>
+      <description><![CDATA[Address:: Wishes - 1099 S Gaylord St Denver, Colorado 80209<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Wishes - 1099 S Gaylord St Denver, Colorado 80209</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>R+D Hipster Emporium - 740 S Rampart Blvd #11 Las Vegas, Nevada 89145</address>
+      <description><![CDATA[Address:: R+D Hipster Emporium - 740 S Rampart Blvd #11 Las Vegas, Nevada 89145<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>R+D Hipster Emporium - 740 S Rampart Blvd #11 Las Vegas, Nevada 89145</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Bellies, Babies and Bosoms - 2430 Honolulu Ave Montrose, California 91020</address>
+      <description><![CDATA[Address:: Bellies, Babies and Bosoms - 2430 Honolulu Ave Montrose, California 91020<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Bellies, Babies and Bosoms - 2430 Honolulu Ave Montrose, California 91020</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Garage Chic - 740 Brewers Bridge Rd Jackson, New Jersey 08527</address>
+      <description><![CDATA[Address:: Garage Chic - 740 Brewers Bridge Rd Jackson, New Jersey 08527<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Garage Chic - 740 Brewers Bridge Rd Jackson, New Jersey 08527</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Family Store - 2122 E 4th St Long Beach, California 90814</address>
+      <description><![CDATA[Address:: Family Store - 2122 E 4th St Long Beach, California 90814<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Family Store - 2122 E 4th St Long Beach, California 90814</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Kreatelier - 804 Hope St Providence, Rhode Island</address>
+      <description><![CDATA[Address:: Kreatelier - 804 Hope St Providence, Rhode Island<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Kreatelier - 804 Hope St Providence, Rhode Island</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Kissui - 5 E Citrus Ave #102 Redlands, California 92373</address>
+      <description><![CDATA[Address:: Kissui - 5 E Citrus Ave #102 Redlands, California 92373<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Kissui - 5 E Citrus Ave #102 Redlands, California 92373</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Juvenile Shop - 13356 Ventura Blvd Sherman Oaks, California 91423</address>
+      <description><![CDATA[Address:: Juvenile Shop - 13356 Ventura Blvd Sherman Oaks, California 91423<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Juvenile Shop - 13356 Ventura Blvd Sherman Oaks, California 91423</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Jake and Jones - 136 E Canon Perdido St Santa Barbara, California 93101</address>
+      <description><![CDATA[Address:: Jake and Jones - 136 E Canon Perdido St Santa Barbara, California 93101<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Jake and Jones - 136 E Canon Perdido St Santa Barbara, California 93101</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Mabels - 136 S Cedros Ave Solana Beach, Calidornia 92075</address>
+      <description><![CDATA[Address:: Mabels - 136 S Cedros Ave Solana Beach, Calidornia 92075<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Mabels - 136 S Cedros Ave Solana Beach, Calidornia 92075</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address><![CDATA[Otto & Olive - 330 2nd St Eureka, California 95501]]></address>
+      <description><![CDATA[Address:: Otto & Olive - 330 2nd St Eureka, California 95501<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value><![CDATA[Otto & Olive - 330 2nd St Eureka, California 95501]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Mr. Moons - 316 Center St Healdsburg, California 95448</address>
+      <description><![CDATA[Address:: Mr. Moons - 316 Center St Healdsburg, California 95448<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Mr. Moons - 316 Center St Healdsburg, California 95448</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Los Gatos Baby - 12 N Santa Cruz Los Gatos, California 95030</address>
+      <description><![CDATA[Address:: Los Gatos Baby - 12 N Santa Cruz Los Gatos, California 95030<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Address:">
+          <value>Los Gatos Baby - 12 N Santa Cruz Los Gatos, California 95030</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

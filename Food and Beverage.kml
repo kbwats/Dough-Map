@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Food and Beverage</name>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Hood Famous by Chera and Geo</name>
+      <address>2325½ NW Market St, Seattle, WA 98107 USA</address>
+      <description><![CDATA[Store Address:: 2325½ NW Market St, Seattle, WA 98107 USA<br>Website:: http://www.hoodfamousbakeshop.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2325½ NW Market St, Seattle, WA 98107 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>http://www.hoodfamousbakeshop.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Curio Spice by Claire</name>
+      <address>2265 Mass Ave. Cambridge MA 02140 USA</address>
+      <description><![CDATA[Store Address:: 2265 Mass Ave. Cambridge MA 02140 USA<br>Website:: https://www.curiospice.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2265 Mass Ave. Cambridge MA 02140 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.curiospice.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>220 8th Ave New York, New York 10011</address>
+      <description><![CDATA[Store Address:: 220 8th Ave New York, New York 10011<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>220 8th Ave New York, New York 10011</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>251 E 13th St New York, New York 10003</address>
+      <description><![CDATA[Store Address:: 251 E 13th St New York, New York 10003<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>251 E 13th St New York, New York 10003</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>110 Wall St New York, New York 10005</address>
+      <description><![CDATA[Store Address:: 110 Wall St New York, New York 10005<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>110 Wall St New York, New York 10005</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>246 Mott St New York, New York 10012</address>
+      <description><![CDATA[Store Address:: 246 Mott St New York, New York 10012<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>246 Mott St New York, New York 10012</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>74 Christopher St New York, New York 10014</address>
+      <description><![CDATA[Store Address:: 74 Christopher St New York, New York 10014<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>74 Christopher St New York, New York 10014</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>15 W 56th St New York, New York 10019</address>
+      <description><![CDATA[Store Address:: 15 W 56th St New York, New York 10019<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>15 W 56th St New York, New York 10019</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>561 Columbus Ave New York, New York 10024</address>
+      <description><![CDATA[Store Address:: 561 Columbus Ave New York, New York 10024<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>561 Columbus Ave New York, New York 10024</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>360 Smith St Brooklyn, New York 11231</address>
+      <description><![CDATA[Store Address:: 360 Smith St Brooklyn, New York 11231<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>360 Smith St Brooklyn, New York 11231</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>382 Metropolitan Ave Brooklyn, New York 11211</address>
+      <description><![CDATA[Store Address:: 382 Metropolitan Ave Brooklyn, New York 11211<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>382 Metropolitan Ave Brooklyn, New York 11211</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>7150 Melrose Ave Los Angeles, California 90046</address>
+      <description><![CDATA[Store Address:: 7150 Melrose Ave Los Angeles, California 90046<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>7150 Melrose Ave Los Angeles, California 90046</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>1090 I St NW Washington, DC 20001</address>
+      <description><![CDATA[Store Address:: 1090 I St NW Washington, DC 20001<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1090 I St NW Washington, DC 20001</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>49 District Sq SW Washington, DC 20024</address>
+      <description><![CDATA[Store Address:: 49 District Sq SW Washington, DC 20024<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>49 District Sq SW Washington, DC 20024</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>1525 15th St NW Washington, DC 20005</address>
+      <description><![CDATA[Store Address:: 1525 15th St NW Washington, DC 20005<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1525 15th St NW Washington, DC 20005</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>3708 S Las Vegas Blvd, Eastside Tower, Level 2, Las Vegas, Nevada 89109</address>
+      <description><![CDATA[Store Address:: 3708 S Las Vegas Blvd, Eastside Tower, Level 2, Las Vegas, Nevada 89109<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3708 S Las Vegas Blvd, Eastside Tower, Level 2, Las Vegas, Nevada 89109</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk Bar by Christina</name>
+      <address>190 University Ave, 2nd Floor, Toronto, ON M5H 0A3, Canada</address>
+      <description><![CDATA[Store Address:: 190 University Ave, 2nd Floor, Toronto, ON M5H 0A3, Canada<br>Website:: https://milkbarstore.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>190 University Ave, 2nd Floor, Toronto, ON M5H 0A3, Canada</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkbarstore.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Colletteys Cookies by Collette</name>
+      <address>Star Market - 53 Huntington Ave Boston, MA 02199</address>
+      <description><![CDATA[Store Address:: Star Market - 53 Huntington Ave Boston, MA 02199<br>Website:: https://www.colletteys.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Star Market - 53 Huntington Ave Boston, MA 02199</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.colletteys.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Colletteys Cookies by Collette</name>
+      <address>Star Market - 1 Boylston St, Chestnut Hill, MA 02467</address>
+      <description><![CDATA[Store Address:: Star Market - 1 Boylston St, Chestnut Hill, MA 02467<br>Website:: https://www.colletteys.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Star Market - 1 Boylston St, Chestnut Hill, MA 02467</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.colletteys.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Colletteys Cookies by Collette</name>
+      <address>Star Market - 535 Trapelo Rd Belmont, MA 02478</address>
+      <description><![CDATA[Store Address:: Star Market - 535 Trapelo Rd Belmont, MA 02478<br>Website:: https://www.colletteys.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Star Market - 535 Trapelo Rd Belmont, MA 02478</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.colletteys.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Colletteys Cookies by Collette</name>
+      <address>Star Market - 699 Mt Auburn St Cambridge, MA 02138</address>
+      <description><![CDATA[Store Address:: Star Market - 699 Mt Auburn St Cambridge, MA 02138<br>Website:: https://www.colletteys.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Star Market - 699 Mt Auburn St Cambridge, MA 02138</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.colletteys.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Colletteys Cookies by Collette</name>
+      <address>The Upper West - 3321 Pico Blvd Santa Monica, California 90404</address>
+      <description><![CDATA[Store Address:: The Upper West - 3321 Pico Blvd Santa Monica, California 90404<br>Website:: https://www.colletteys.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>The Upper West - 3321 Pico Blvd Santa Monica, California 90404</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.colletteys.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Colletteys Cookies by Collette</name>
+      <address><![CDATA[Golden Goose Market & Cafe 179 Commercial Street Boston, MA 02109]]></address>
+      <description><![CDATA[Store Address:: Golden Goose Market & Cafe 179 Commercial Street Boston, MA 02109<br>Website:: https://www.colletteys.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[Golden Goose Market & Cafe 179 Commercial Street Boston, MA 02109]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.colletteys.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address><![CDATA[Valentine's - 3820 Piedmont Avenue Oakland, CA 94611]]></address>
+      <description><![CDATA[Store Address:: Valentine's - 3820 Piedmont Avenue Oakland, CA 94611<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[Valentine's - 3820 Piedmont Avenue Oakland, CA 94611]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Redemption - 241 E Campbell Ave A Campbell, California 95008</address>
+      <description><![CDATA[Store Address:: Redemption - 241 E Campbell Ave A Campbell, California 95008<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Redemption - 241 E Campbell Ave A Campbell, California 95008</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Prim Boutique - 560 Main St Pleasanton, California 94566</address>
+      <description><![CDATA[Store Address:: Prim Boutique - 560 Main St Pleasanton, California 94566<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Prim Boutique - 560 Main St Pleasanton, California 94566</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>2281 La Playa Drive South, Costa Mesa, California 92627</address>
+      <description><![CDATA[Store Address:: 2281 La Playa Drive South, Costa Mesa, California 92627<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2281 La Playa Drive South, Costa Mesa, California 92627</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>1306 Castro Street San Francisco, California 94114</address>
+      <description><![CDATA[Store Address:: 1306 Castro Street San Francisco, California 94114<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1306 Castro Street San Francisco, California 94114</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Flicka - 204 N Larchmont Blvd Los Angeles, California 90004</address>
+      <description><![CDATA[Store Address:: Flicka - 204 N Larchmont Blvd Los Angeles, California 90004<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Flicka - 204 N Larchmont Blvd Los Angeles, California 90004</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Lil Bit - 8302 W 3rd St Los Angeles, California 90048</address>
+      <description><![CDATA[Store Address:: Lil Bit - 8302 W 3rd St Los Angeles, California 90048<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Lil Bit - 8302 W 3rd St Los Angeles, California 90048</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Sunset Kids - 8671 Sunset Blvd West Hollywood, California 90069</address>
+      <description><![CDATA[Store Address:: Sunset Kids - 8671 Sunset Blvd West Hollywood, California 90069<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Sunset Kids - 8671 Sunset Blvd West Hollywood, California 90069</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Treehaus - 3153 Glendale Blvd Los Angeles, California 90039</address>
+      <description><![CDATA[Store Address:: Treehaus - 3153 Glendale Blvd Los Angeles, California 90039<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Treehaus - 3153 Glendale Blvd Los Angeles, California 90039</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Vroom Vroom Bitsy Boo - 5031 York Blvd Los Angeles, California 90042</address>
+      <description><![CDATA[Store Address:: Vroom Vroom Bitsy Boo - 5031 York Blvd Los Angeles, California 90042<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Vroom Vroom Bitsy Boo - 5031 York Blvd Los Angeles, California 90042</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Hug Bug - 900 W Glenoaks Blvd Unit H Glendale, California 91202</address>
+      <description><![CDATA[Store Address:: Hug Bug - 900 W Glenoaks Blvd Unit H Glendale, California 91202<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Hug Bug - 900 W Glenoaks Blvd Unit H Glendale, California 91202</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>The Reckless Unicorn - 2124 Hillhurst Ave Los Angeles, California 90027</address>
+      <description><![CDATA[Store Address:: The Reckless Unicorn - 2124 Hillhurst Ave Los Angeles, California 90027<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>The Reckless Unicorn - 2124 Hillhurst Ave Los Angeles, California 90027</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Jack + Emmy - 10191 Donner Pass Rd #3 Truckee, California 96161</address>
+      <description><![CDATA[Store Address:: Jack + Emmy - 10191 Donner Pass Rd #3 Truckee, California 96161<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Jack + Emmy - 10191 Donner Pass Rd #3 Truckee, California 96161</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Twinkle - 533 E Hopkins Ave #B Aspen, Colorado 81611</address>
+      <description><![CDATA[Store Address:: Twinkle - 533 E Hopkins Ave #B Aspen, Colorado 81611<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Twinkle - 533 E Hopkins Ave #B Aspen, Colorado 81611</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Wishes - 1099 S Gaylord St Denver, Colorado 80209</address>
+      <description><![CDATA[Store Address:: Wishes - 1099 S Gaylord St Denver, Colorado 80209<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Wishes - 1099 S Gaylord St Denver, Colorado 80209</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>R+D Hipster Emporium - 740 S Rampart Blvd #11 Las Vegas, Nevada 89145</address>
+      <description><![CDATA[Store Address:: R+D Hipster Emporium - 740 S Rampart Blvd #11 Las Vegas, Nevada 89145<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>R+D Hipster Emporium - 740 S Rampart Blvd #11 Las Vegas, Nevada 89145</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Bellies, Babies and Bosoms - 2430 Honolulu Ave Montrose, California 91020</address>
+      <description><![CDATA[Store Address:: Bellies, Babies and Bosoms - 2430 Honolulu Ave Montrose, California 91020<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Bellies, Babies and Bosoms - 2430 Honolulu Ave Montrose, California 91020</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Garage Chic - 740 Brewers Bridge Rd Jackson, New Jersey 08527</address>
+      <description><![CDATA[Store Address:: Garage Chic - 740 Brewers Bridge Rd Jackson, New Jersey 08527<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Garage Chic - 740 Brewers Bridge Rd Jackson, New Jersey 08527</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Family Store - 2122 E 4th St Long Beach, California 90814</address>
+      <description><![CDATA[Store Address:: Family Store - 2122 E 4th St Long Beach, California 90814<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Family Store - 2122 E 4th St Long Beach, California 90814</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Kreatelier - 804 Hope St Providence, Rhode Island</address>
+      <description><![CDATA[Store Address:: Kreatelier - 804 Hope St Providence, Rhode Island<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Kreatelier - 804 Hope St Providence, Rhode Island</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Kissui - 5 E Citrus Ave #102 Redlands, California 92373</address>
+      <description><![CDATA[Store Address:: Kissui - 5 E Citrus Ave #102 Redlands, California 92373<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Kissui - 5 E Citrus Ave #102 Redlands, California 92373</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Juvenile Shop - 13356 Ventura Blvd Sherman Oaks, California 91423</address>
+      <description><![CDATA[Store Address:: Juvenile Shop - 13356 Ventura Blvd Sherman Oaks, California 91423<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Juvenile Shop - 13356 Ventura Blvd Sherman Oaks, California 91423</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Jake and Jones - 136 E Canon Perdido St Santa Barbara, California 93101</address>
+      <description><![CDATA[Store Address:: Jake and Jones - 136 E Canon Perdido St Santa Barbara, California 93101<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Jake and Jones - 136 E Canon Perdido St Santa Barbara, California 93101</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Mabels - 136 S Cedros Ave Solana Beach, Calidornia 92075</address>
+      <description><![CDATA[Store Address:: Mabels - 136 S Cedros Ave Solana Beach, Calidornia 92075<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Mabels - 136 S Cedros Ave Solana Beach, Calidornia 92075</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address><![CDATA[Otto & Olive - 330 2nd St Eureka, California 95501]]></address>
+      <description><![CDATA[Store Address:: Otto & Olive - 330 2nd St Eureka, California 95501<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[Otto & Olive - 330 2nd St Eureka, California 95501]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Mr. Moons - 316 Center St Healdsburg, California 95448</address>
+      <description><![CDATA[Store Address:: Mr. Moons - 316 Center St Healdsburg, California 95448<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Mr. Moons - 316 Center St Healdsburg, California 95448</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Chaboukie by Leah</name>
+      <address>Los Gatos Baby - 12 N Santa Cruz Los Gatos, California 95030</address>
+      <description><![CDATA[Store Address:: Los Gatos Baby - 12 N Santa Cruz Los Gatos, California 95030<br>Website:: https://chaboukie.com/<br>Category:: Apparel, Parenting<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Los Gatos Baby - 12 N Santa Cruz Los Gatos, California 95030</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://chaboukie.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Apparel, Parenting</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supernatural by Carmel</name>
+      <address>Whole Foods Williamsburg - 238 Bedford St Brooklyn, New York 11249</address>
+      <description><![CDATA[Store Address:: Whole Foods Williamsburg - 238 Bedford St Brooklyn, New York 11249<br>Website:: https://www.supernaturalkitchen.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Williamsburg - 238 Bedford St Brooklyn, New York 11249</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.supernaturalkitchen.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supernatural by Carmel</name>
+      <address><![CDATA[Whole Foods 3rd & Third - 214 3rd St Brooklyn, New York 11215]]></address>
+      <description><![CDATA[Store Address:: Whole Foods 3rd & Third - 214 3rd St Brooklyn, New York 11215<br>Website:: https://www.supernaturalkitchen.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[Whole Foods 3rd & Third - 214 3rd St Brooklyn, New York 11215]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.supernaturalkitchen.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supernatural by Carmel</name>
+      <address>Whole Foods Bryant Park - 1095 Avenue of the Americas New York, New York 10036</address>
+      <description><![CDATA[Store Address:: Whole Foods Bryant Park - 1095 Avenue of the Americas New York, New York 10036<br>Website:: https://www.supernaturalkitchen.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Bryant Park - 1095 Avenue of the Americas New York, New York 10036</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.supernaturalkitchen.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supernatural by Carmel</name>
+      <address>Whole Foods Midtown East - 226 E 57th New York, New York 10022</address>
+      <description><![CDATA[Store Address:: Whole Foods Midtown East - 226 E 57th New York, New York 10022<br>Website:: https://www.supernaturalkitchen.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Midtown East - 226 E 57th New York, New York 10022</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.supernaturalkitchen.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supernatural by Carmel</name>
+      <address>Whole Foods Tribeca - 270 Greenwich St New York, New York 10007</address>
+      <description><![CDATA[Store Address:: Whole Foods Tribeca - 270 Greenwich St New York, New York 10007<br>Website:: https://www.supernaturalkitchen.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Tribeca - 270 Greenwich St New York, New York 10007</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.supernaturalkitchen.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supernatural by Carmel</name>
+      <address>Whole Foods Bowery - 95 East Houston St New York, New York 10002</address>
+      <description><![CDATA[Store Address:: Whole Foods Bowery - 95 East Houston St New York, New York 10002<br>Website:: https://www.supernaturalkitchen.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Bowery - 95 East Houston St New York, New York 10002</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.supernaturalkitchen.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supernatural by Carmel</name>
+      <address>Whole Foods Union Square - 4 Union Square South New York, New York 10003</address>
+      <description><![CDATA[Store Address:: Whole Foods Union Square - 4 Union Square South New York, New York 10003<br>Website:: https://www.supernaturalkitchen.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Union Square - 4 Union Square South New York, New York 10003</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.supernaturalkitchen.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Supernatural by Carmel</name>
+      <address>Whole Foods Chelsea - 250 7th Ave New York, New York 10001</address>
+      <description><![CDATA[Store Address:: Whole Foods Chelsea - 250 7th Ave New York, New York 10001<br>Website:: https://www.supernaturalkitchen.com/<br>Category:: Food & Beverage<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Chelsea - 250 7th Ave New York, New York 10001</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.supernaturalkitchen.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value><![CDATA[Food & Beverage]]></value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

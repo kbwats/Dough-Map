@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Beauty</name>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Sequoia Soaps by Michaelee</name>
+      <address>River Road, Kahnawake, QC J0L 1B0</address>
+      <description><![CDATA[Store Address:: River Road, Kahnawake, QC J0L 1B0<br>Website:: https://sequoiasoaps.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>River Road, Kahnawake, QC J0L 1B0</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://sequoiasoaps.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Serious Lip Balm by Khara and Luckey</name>
+      <address>2945 S Douglas Ave Springfield, Illinois USA</address>
+      <description><![CDATA[Store Address:: 2945 S Douglas Ave Springfield, Illinois USA<br>Website:: http://www.seriouslipbalm.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2945 S Douglas Ave Springfield, Illinois USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>http://www.seriouslipbalm.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>12901 Hill Country Blvd Suite D1-110 Bee Cave, Texas 78738</address>
+      <description><![CDATA[Store Address:: 12901 Hill Country Blvd Suite D1-110 Bee Cave, Texas 78738<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>12901 Hill Country Blvd Suite D1-110 Bee Cave, Texas 78738</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>4715 South Lamar Blvd Suite 104 Sunset Valley, Texas 78745</address>
+      <description><![CDATA[Store Address:: 4715 South Lamar Blvd Suite 104 Sunset Valley, Texas 78745<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>4715 South Lamar Blvd Suite 104 Sunset Valley, Texas 78745</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>100A Guadalupe Street Austin, Texas 78701</address>
+      <description><![CDATA[Store Address:: 100A Guadalupe Street Austin, Texas 78701<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>100A Guadalupe Street Austin, Texas 78701</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>9722 Great hills Trail Suite 145 Austin, Texas 78759</address>
+      <description><![CDATA[Store Address:: 9722 Great hills Trail Suite 145 Austin, Texas 78759<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>9722 Great hills Trail Suite 145 Austin, Texas 78759</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Brookside 1401 E 41st St. Tulsa, Oklahoma 74105</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Brookside 1401 E 41st St. Tulsa, Oklahoma 74105<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Brookside 1401 E 41st St. Tulsa, Oklahoma 74105</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Yale 9136 South Yale Tulsa, Oklahoma 74137</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Yale 9136 South Yale Tulsa, Oklahoma 74137<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Yale 9136 South Yale Tulsa, Oklahoma 74137</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>OAK Nashville 4200 Charlotte Ave Nashville, Tennessee 37209</address>
+      <description><![CDATA[Store Address:: OAK Nashville 4200 Charlotte Ave Nashville, Tennessee 37209<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>OAK Nashville 4200 Charlotte Ave Nashville, Tennessee 37209</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Perennial Supply Company 222 N Court St. Florence, Alamaba 35630</address>
+      <description><![CDATA[Store Address:: Perennial Supply Company 222 N Court St. Florence, Alamaba 35630<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Perennial Supply Company 222 N Court St. Florence, Alamaba 35630</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Oklahoma City 6001 N Western Ave Oklahoma City, Oklahoma 74118</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Oklahoma City 6001 N Western Ave Oklahoma City, Oklahoma 74118<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Oklahoma City 6001 N Western Ave Oklahoma City, Oklahoma 74118</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address><![CDATA[KD Floral & Gardens 325 Minnesota Ave Bemidki, Minnesota 55601]]></address>
+      <description><![CDATA[Store Address:: KD Floral & Gardens 325 Minnesota Ave Bemidki, Minnesota 55601<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[KD Floral & Gardens 325 Minnesota Ave Bemidki, Minnesota 55601]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Fairview 105 Stacy Road Fairview, Texas 75069</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Fairview 105 Stacy Road Fairview, Texas 75069<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Fairview 105 Stacy Road Fairview, Texas 75069</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Plano 2201 Preston Rd Plano, Texas 75093</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Plano 2201 Preston Rd Plano, Texas 75093<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Plano 2201 Preston Rd Plano, Texas 75093</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Highland Village 4041 Waller Creek Highland Village, Texas 75077</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Highland Village 4041 Waller Creek Highland Village, Texas 75077<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Highland Village 4041 Waller Creek Highland Village, Texas 75077</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Forest 11700 Preston Rd. #714 Dallas, Texas 75231</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Forest 11700 Preston Rd. #714 Dallas, Texas 75231<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Forest 11700 Preston Rd. #714 Dallas, Texas 75231</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Park Lane 8190 Park Lane #351 Dallas, Texas 75231</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Park Lane 8190 Park Lane #351 Dallas, Texas 75231<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Park Lane 8190 Park Lane #351 Dallas, Texas 75231</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Neiman Marcus - North Park 8687 N Central Expy Dallas, Texas 75225</address>
+      <description><![CDATA[Store Address:: Neiman Marcus - North Park 8687 N Central Expy Dallas, Texas 75225<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Neiman Marcus - North Park 8687 N Central Expy Dallas, Texas 75225</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Highland Park 4100 Lomo Alto Highland Park, Texas 75219</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Highland Park 4100 Lomo Alto Highland Park, Texas 75219<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Highland Park 4100 Lomo Alto Highland Park, Texas 75219</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Uptown 2510 McKinney Ave Dallas, Texas 75201</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Uptown 2510 McKinney Ave Dallas, Texas 75201<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Uptown 2510 McKinney Ave Dallas, Texas 75201</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Colleyville 4801 Colleyville Blvd Colleyville, Texas 76034</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Colleyville 4801 Colleyville Blvd Colleyville, Texas 76034<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Colleyville 4801 Colleyville Blvd Colleyville, Texas 76034</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Neiman Marcus - 5200 Monahans Ave Fort Worth, Texas 76109</address>
+      <description><![CDATA[Store Address:: Neiman Marcus - 5200 Monahans Ave Fort Worth, Texas 76109<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Neiman Marcus - 5200 Monahans Ave Fort Worth, Texas 76109</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Fayetteville 342 N College Ave Fayetteville, Arkansas 72703</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Fayetteville 342 N College Ave Fayetteville, Arkansas 72703<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Fayetteville 342 N College Ave Fayetteville, Arkansas 72703</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Baton Rouge 7529 Corporate Blvd. Baton Rouge, Lousiana 70809</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Baton Rouge 7529 Corporate Blvd. Baton Rouge, Lousiana 70809<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Baton Rouge 7529 Corporate Blvd. Baton Rouge, Lousiana 70809</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Mandeville 3450 Hwy 190 Mandeville, Lousiana 70471</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Mandeville 3450 Hwy 190 Mandeville, Lousiana 70471<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Mandeville 3450 Hwy 190 Mandeville, Lousiana 70471</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Ambassador Caffery 4247 Ambassador Caffery Parkway Lafayette, Lousiana 70508</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Ambassador Caffery 4247 Ambassador Caffery Parkway Lafayette, Lousiana 70508<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Ambassador Caffery 4247 Ambassador Caffery Parkway Lafayette, Lousiana 70508</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Broad Street 300 North Broad Street New Orleans, Lousiana 70119</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Broad Street 300 North Broad Street New Orleans, Lousiana 70119<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Broad Street 300 North Broad Street New Orleans, Lousiana 70119</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Verterans 3420 Veterans Blvd. Metairie, Lousiana 70002</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Verterans 3420 Veterans Blvd. Metairie, Lousiana 70002<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Verterans 3420 Veterans Blvd. Metairie, Lousiana 70002</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Arabella Station 5600 Magazine St. New Orleans, 70115</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Arabella Station 5600 Magazine St. New Orleans, 70115<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Arabella Station 5600 Magazine St. New Orleans, 70115</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Woodlands 1925 Hughes Landing Blvd Suite 100 The Woodlands, Texas 77380</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Woodlands 1925 Hughes Landing Blvd Suite 100 The Woodlands, Texas 77380<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Woodlands 1925 Hughes Landing Blvd Suite 100 The Woodlands, Texas 77380</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Champions 10133 Louetta Rd Houston, Texas 77070</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Champions 10133 Louetta Rd Houston, Texas 77070<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Champions 10133 Louetta Rd Houston, Texas 77070</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Montrose 701 Waugh Drive Houston, Texas 77019</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Montrose 701 Waugh Drive Houston, Texas 77019<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Montrose 701 Waugh Drive Houston, Texas 77019</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Kirby 2955 Kirby Dr. Houston, Texas 77098</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Kirby 2955 Kirby Dr. Houston, Texas 77098<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Kirby 2955 Kirby Dr. Houston, Texas 77098</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Post Oak 1700 Post Oak Blvd Suite 100 Houston, Texas 77056</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Post Oak 1700 Post Oak Blvd Suite 100 Houston, Texas 77056<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Post Oak 1700 Post Oak Blvd Suite 100 Houston, Texas 77056</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Voss 1407 S Voss Houston, Texas 77057</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Voss 1407 S Voss Houston, Texas 77057<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Voss 1407 S Voss Houston, Texas 77057</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Domain 11920 Domain Dr. Austin, Texas 78758</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Domain 11920 Domain Dr. Austin, Texas 78758<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Domain 11920 Domain Dr. Austin, Texas 78758</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Bellaire 4004 Bellaire Blvd Houston, Texas 77025</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Bellaire 4004 Bellaire Blvd Houston, Texas 77025<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Bellaire 4004 Bellaire Blvd Houston, Texas 77025</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Wilcrest 11145 Westheimer Rd. Houston, Texas 77042</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Wilcrest 11145 Westheimer Rd. Houston, Texas 77042<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Wilcrest 11145 Westheimer Rd. Houston, Texas 77042</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Gateway 9607 Research Blvd. #300 Austin, Texas 78759</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Gateway 9607 Research Blvd. #300 Austin, Texas 78759<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Gateway 9607 Research Blvd. #300 Austin, Texas 78759</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Katy 6601 South Fry Road Katy, Texas 77494</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Katy 6601 South Fry Road Katy, Texas 77494<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Katy 6601 South Fry Road Katy, Texas 77494</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>MOD Fitness Burnet 4406 Burnet Rd Austin, Texas 78756</address>
+      <description><![CDATA[Store Address:: MOD Fitness Burnet 4406 Burnet Rd Austin, Texas 78756<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>MOD Fitness Burnet 4406 Burnet Rd Austin, Texas 78756</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Lamar 525 N Lamar Blvd Austin, Texas 78703</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Lamar 525 N Lamar Blvd Austin, Texas 78703<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Lamar 525 N Lamar Blvd Austin, Texas 78703</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Crush Fitness 300 S Lamar Blvd Suite O Austin, Texas 78704</address>
+      <description><![CDATA[Store Address:: Crush Fitness 300 S Lamar Blvd Suite O Austin, Texas 78704<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Crush Fitness 300 S Lamar Blvd Suite O Austin, Texas 78704</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Limbo Jewelry 1604 South Congress Avenue Austin, Texas 78704</address>
+      <description><![CDATA[Store Address:: Limbo Jewelry 1604 South Congress Avenue Austin, Texas 78704<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Limbo Jewelry 1604 South Congress Avenue Austin, Texas 78704</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>MOD Fitness South Lamar 2041 S Lamar Blvd Austin, Texas 78704</address>
+      <description><![CDATA[Store Address:: MOD Fitness South Lamar 2041 S Lamar Blvd Austin, Texas 78704<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>MOD Fitness South Lamar 2041 S Lamar Blvd Austin, Texas 78704</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Sugar Land 15900 Southwest Freeway Sugar Land, Texas 77479</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Sugar Land 15900 Southwest Freeway Sugar Land, Texas 77479<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Sugar Land 15900 Southwest Freeway Sugar Land, Texas 77479</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Bee Cave 12601 Hill Country Blvd. Bee Cave, Texas 78738</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Bee Cave 12601 Hill Country Blvd. Bee Cave, Texas 78738<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Bee Cave 12601 Hill Country Blvd. Bee Cave, Texas 78738</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Arbor Trails 4301 W. William Cannon Bldg B Suite 800 Austin, Texas 78749</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Arbor Trails 4301 W. William Cannon Bldg B Suite 800 Austin, Texas 78749<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Arbor Trails 4301 W. William Cannon Bldg B Suite 800 Austin, Texas 78749</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Roaring Pines 2025 Venable Street Richmond, Virginia 23223</address>
+      <description><![CDATA[Store Address:: Roaring Pines 2025 Venable Street Richmond, Virginia 23223<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Roaring Pines 2025 Venable Street Richmond, Virginia 23223</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Milk and Honey by Alissa</name>
+      <address>Whole Foods Market - Vineyard 18403 Blanco Road San Antonio, Texas 77258</address>
+      <description><![CDATA[Store Address:: Whole Foods Market - Vineyard 18403 Blanco Road San Antonio, Texas 77258<br>Website:: https://milkandhoney.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Whole Foods Market - Vineyard 18403 Blanco Road San Antonio, Texas 77258</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://milkandhoney.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Young Blood Boutique - 632 N Highland Ave NE Atlanta, Georgia 30306</address>
+      <description><![CDATA[Store Address:: Young Blood Boutique - 632 N Highland Ave NE Atlanta, Georgia 30306<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Young Blood Boutique - 632 N Highland Ave NE Atlanta, Georgia 30306</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Morningtide - 847 Cornell Avenue Albany, California 94706</address>
+      <description><![CDATA[Store Address:: Morningtide - 847 Cornell Avenue Albany, California 94706<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Morningtide - 847 Cornell Avenue Albany, California 94706</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Asrai Garden - 1935 W North Ave Chicago, Illinois 60622</address>
+      <description><![CDATA[Store Address:: Asrai Garden - 1935 W North Ave Chicago, Illinois 60622<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Asrai Garden - 1935 W North Ave Chicago, Illinois 60622</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Here to Sunday - 567 Union Street Brooklyn, New York 11211</address>
+      <description><![CDATA[Store Address:: Here to Sunday - 567 Union Street Brooklyn, New York 11211<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Here to Sunday - 567 Union Street Brooklyn, New York 11211</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Puerh Brooklyn - 174 Grand St Brooklyn, New York 11211</address>
+      <description><![CDATA[Store Address:: Puerh Brooklyn - 174 Grand St Brooklyn, New York 11211<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Puerh Brooklyn - 174 Grand St Brooklyn, New York 11211</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Radicle Herb Shop - 394 Atlantic Ave Brooklyn, New York 11217</address>
+      <description><![CDATA[Store Address:: Radicle Herb Shop - 394 Atlantic Ave Brooklyn, New York 11217<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Radicle Herb Shop - 394 Atlantic Ave Brooklyn, New York 11217</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>SiiZu - 265 Canal St New York, New York 10013</address>
+      <description><![CDATA[Store Address:: SiiZu - 265 Canal St New York, New York 10013<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>SiiZu - 265 Canal St New York, New York 10013</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Simple Goods - 346 Bedford Avenue Brooklyn, New York 11249</address>
+      <description><![CDATA[Store Address:: Simple Goods - 346 Bedford Avenue Brooklyn, New York 11249<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Simple Goods - 346 Bedford Avenue Brooklyn, New York 11249</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address><![CDATA[Erik & Mike - 32 Bridge Street Lambertville, New Jersey 08530]]></address>
+      <description><![CDATA[Store Address:: Erik & Mike - 32 Bridge Street Lambertville, New Jersey 08530<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[Erik & Mike - 32 Bridge Street Lambertville, New Jersey 08530]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address><![CDATA[Dough Mama Pie & Pastry - 3335 N High Street Columbus, Ohio 43202]]></address>
+      <description><![CDATA[Store Address:: Dough Mama Pie & Pastry - 3335 N High Street Columbus, Ohio 43202<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[Dough Mama Pie & Pastry - 3335 N High Street Columbus, Ohio 43202]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Flwrshop - 123 S 11th St Nashville, Tennessee 37206</address>
+      <description><![CDATA[Store Address:: Flwrshop - 123 S 11th St Nashville, Tennessee 37206<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Flwrshop - 123 S 11th St Nashville, Tennessee 37206</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Even Keel by En</name>
+      <address>Lemon Laine - 1900 Eastland Ave #102 Nashville, Tennessee 37206</address>
+      <description><![CDATA[Store Address:: Lemon Laine - 1900 Eastland Ave #102 Nashville, Tennessee 37206<br>Website:: https://evenkeelsoap.com/<br>Category:: Beauty<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Lemon Laine - 1900 Eastland Ave #102 Nashville, Tennessee 37206</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://evenkeelsoap.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Beauty</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

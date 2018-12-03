@@ -1,0 +1,4441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Accessories</name>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Mejuri by Noura and Justine</name>
+      <address>906 Dundas St W., Toronto, Canada</address>
+      <description><![CDATA[Store Address:: 906 Dundas St W., Toronto, Canada<br>Website:: https://mejuri.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>906 Dundas St W., Toronto, Canada</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mejuri.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Crossbow Leather by Macy</name>
+      <address>124 E Colorado Ave, Telluride, Colorado, USA</address>
+      <description><![CDATA[Store Address:: 124 E Colorado Ave, Telluride, Colorado, USA<br>Website:: https://www.crossbowleather.com<br>Category:: Accessories<br>Cost:: $$$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>124 E Colorado Ave, Telluride, Colorado, USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.crossbowleather.com</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Mahnal by Shayba</name>
+      <address>1605 Tower Grove Avenue, St. Louis, Missouri, 63110 USA</address>
+      <description><![CDATA[Store Address:: 1605 Tower Grove Avenue, St. Louis, Missouri, 63110 USA<br>Website:: https://mahnal.com<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1605 Tower Grove Avenue, St. Louis, Missouri, 63110 USA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://mahnal.com</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Bandier - Flatiron 108 Fifth Ave New York, New York 10011</address>
+      <description><![CDATA[Store Address:: Bandier - Flatiron 108 Fifth Ave New York, New York 10011<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Bandier - Flatiron 108 Fifth Ave New York, New York 10011</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Bandier - Ues 150 E 72nd St New York, New York 10021</address>
+      <description><![CDATA[Store Address:: Bandier - Ues 150 E 72nd St New York, New York 10021<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Bandier - Ues 150 E 72nd St New York, New York 10021</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Bandier - Long Island 2104 Northern Blvd Manhasset, New York 11030</address>
+      <description><![CDATA[Store Address:: Bandier - Long Island 2104 Northern Blvd Manhasset, New York 11030<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Bandier - Long Island 2104 Northern Blvd Manhasset, New York 11030</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Bandier - Highland Park Village Dallas 8A Highland Park Village Dallas, Texas 75205</address>
+      <description><![CDATA[Store Address:: Bandier - Highland Park Village Dallas 8A Highland Park Village Dallas, Texas 75205<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Bandier - Highland Park Village Dallas 8A Highland Park Village Dallas, Texas 75205</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Bandier - Southampton 448 Main St Southampton, New York 11968</address>
+      <description><![CDATA[Store Address:: Bandier - Southampton 448 Main St Southampton, New York 11968<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Bandier - Southampton 448 Main St Southampton, New York 11968</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Westwood 10960 Wilshire Blvd Los Angeles, California 90024</address>
+      <description><![CDATA[Store Address:: Equinox - Westwood 10960 Wilshire Blvd Los Angeles, California 90024<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Westwood 10960 Wilshire Blvd Los Angeles, California 90024</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Marina Del Ray 1355 Maxella Ave Marina Del Ray, California 90292</address>
+      <description><![CDATA[Store Address:: Equinox - Marina Del Ray 1355 Maxella Ave Marina Del Ray, California 90292<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Marina Del Ray 1355 Maxella Ave Marina Del Ray, California 90292</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Beverly Hills 9601 Wilshire Blvd Beverly Hills, California 90210</address>
+      <description><![CDATA[Store Address:: Equinox - Beverly Hills 9601 Wilshire Blvd Beverly Hills, California 90210<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Beverly Hills 9601 Wilshire Blvd Beverly Hills, California 90210</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - West Hollywood 8590 Sunset Blvd West Hollywood, California 90069</address>
+      <description><![CDATA[Store Address:: Equinox - West Hollywood 8590 Sunset Blvd West Hollywood, California 90069<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - West Hollywood 8590 Sunset Blvd West Hollywood, California 90069</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Sports Club LA 1835 Sepulveda Blvd Los Angeles, California 90025</address>
+      <description><![CDATA[Store Address:: Equinox - Sports Club LA 1835 Sepulveda Blvd Los Angeles, California 90025<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Sports Club LA 1835 Sepulveda Blvd Los Angeles, California 90025</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Palo Alto 440 Portage Avenue Palo Alto, California 94306</address>
+      <description><![CDATA[Store Address:: Equinox - Palo Alto 440 Portage Avenue Palo Alto, California 94306<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Palo Alto 440 Portage Avenue Palo Alto, California 94306</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Union Street 2055 Union St San Francisco, California 94123</address>
+      <description><![CDATA[Store Address:: Equinox - Union Street 2055 Union St San Francisco, California 94123<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Union Street 2055 Union St San Francisco, California 94123</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Sports Club San Francisco 747 Market St San Francisco, California 94103</address>
+      <description><![CDATA[Store Address:: Equinox - Sports Club San Francisco 747 Market St San Francisco, California 94103<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Sports Club San Francisco 747 Market St San Francisco, California 94103</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Sports Club OC 1980 Main St Irvine, California 92614</address>
+      <description><![CDATA[Store Address:: Equinox - Sports Club OC 1980 Main St Irvine, California 92614<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Sports Club OC 1980 Main St Irvine, California 92614</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Southport 233 Old Post Rd Southport, CT 06890</address>
+      <description><![CDATA[Store Address:: Equinox - Southport 233 Old Post Rd Southport, CT 06890<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Southport 233 Old Post Rd Southport, CT 06890</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Greenwich 16 Old Track Rd Greenwich, CT 06830</address>
+      <description><![CDATA[Store Address:: Equinox - Greenwich 16 Old Track Rd Greenwich, CT 06830<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Greenwich 16 Old Track Rd Greenwich, CT 06830</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Darien 72 Heights Rd Darien, CT 06820</address>
+      <description><![CDATA[Store Address:: Equinox - Darien 72 Heights Rd Darien, CT 06820<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Darien 72 Heights Rd Darien, CT 06820</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Aventura 19501 Biscayne Blvd Miami, Florida 33180</address>
+      <description><![CDATA[Store Address:: Equinox - Aventura 19501 Biscayne Blvd Miami, Florida 33180<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Aventura 19501 Biscayne Blvd Miami, Florida 33180</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Chicago Gold Coast 900 N Michigan Ave Chicago, Illinois 60611</address>
+      <description><![CDATA[Store Address:: Equinox - Chicago Gold Coast 900 N Michigan Ave Chicago, Illinois 60611<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Chicago Gold Coast 900 N Michigan Ave Chicago, Illinois 60611</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Highland Park 799 Central Ave Highland Park, Illinois 60035</address>
+      <description><![CDATA[Store Address:: Equinox - Highland Park 799 Central Ave Highland Park, Illinois 60035<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Highland Park 799 Central Ave Highland Park, Illinois 60035</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Lincoln Park 1750 N Clark St Chicago, Illinois 60614</address>
+      <description><![CDATA[Store Address:: Equinox - Lincoln Park 1750 N Clark St Chicago, Illinois 60614<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Lincoln Park 1750 N Clark St Chicago, Illinois 60614</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Bethesda 4905 Elm St Bethesda, Maryland 20814</address>
+      <description><![CDATA[Store Address:: Equinox - Bethesda 4905 Elm St Bethesda, Maryland 20814<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Bethesda 4905 Elm St Bethesda, Maryland 20814</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Boston Seaport 27 Northern Ave Boston, MA 02210</address>
+      <description><![CDATA[Store Address:: Equinox - Boston Seaport 27 Northern Ave Boston, MA 02210<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Boston Seaport 27 Northern Ave Boston, MA 02210</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Boston Franklin Street 225 Franklin St Boston, MA 02110</address>
+      <description><![CDATA[Store Address:: Equinox - Boston Franklin Street 225 Franklin St Boston, MA 02110<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Boston Franklin Street 225 Franklin St Boston, MA 02110</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Chestnut Hill 200 Boylston St Chestnut Hill, MA 02467</address>
+      <description><![CDATA[Store Address:: Equinox - Chestnut Hill 200 Boylston St Chestnut Hill, MA 02467<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Chestnut Hill 200 Boylston St Chestnut Hill, MA 02467</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Boston Dartmouth Street 131 Dartmouth St Boston, MA 02116</address>
+      <description><![CDATA[Store Address:: Equinox - Boston Dartmouth Street 131 Dartmouth St Boston, MA 02116<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Boston Dartmouth Street 131 Dartmouth St Boston, MA 02116</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Sports Club Boston 4 Avery St Boston, MA 02111</address>
+      <description><![CDATA[Store Address:: Equinox - Sports Club Boston 4 Avery St Boston, MA 02111<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Sports Club Boston 4 Avery St Boston, MA 02111</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Woodbury 7550 Jericho Turnpike Woordbury, New York 11797</address>
+      <description><![CDATA[Store Address:: Equinox - Woodbury 7550 Jericho Turnpike Woordbury, New York 11797<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Woodbury 7550 Jericho Turnpike Woordbury, New York 11797</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Flatirion 897 Broadway New York, New York 10003</address>
+      <description><![CDATA[Store Address:: Equinox - Flatirion 897 Broadway New York, New York 10003<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Flatirion 897 Broadway New York, New York 10003</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - West 76th Street 344 Amsterdam Ave New York, New York 10024</address>
+      <description><![CDATA[Store Address:: Equinox - West 76th Street 344 Amsterdam Ave New York, New York 10024<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - West 76th Street 344 Amsterdam Ave New York, New York 10024</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox -  West 92nd Street 2465 Broadway New York, New York 10025</address>
+      <description><![CDATA[Store Address:: Equinox -  West 92nd Street 2465 Broadway New York, New York 10025<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox -  West 92nd Street 2465 Broadway New York, New York 10025</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Greenwich Avenue 97 Greenwich Ave New York, New York 10014</address>
+      <description><![CDATA[Store Address:: Equinox - Greenwich Avenue 97 Greenwich Ave New York, New York 10014<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Greenwich Avenue 97 Greenwich Ave New York, New York 10014</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Columbus Circle 10 Columbus Circle New York, New York 10019</address>
+      <description><![CDATA[Store Address:: Equinox - Columbus Circle 10 Columbus Circle New York, New York 10019<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Columbus Circle 10 Columbus Circle New York, New York 10019</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Soho 69 Prince St New York, New York 10012</address>
+      <description><![CDATA[Store Address:: Equinox - Soho 69 Prince St New York, New York 10012<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Soho 69 Prince St New York, New York 10012</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Bryant Park 129 West 41st St New York, New York 10036</address>
+      <description><![CDATA[Store Address:: Equinox - Bryant Park 129 West 41st St New York, New York 10036<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Bryant Park 129 West 41st St New York, New York 10036</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Bond Street Zero Bond Street New York, New York 10012</address>
+      <description><![CDATA[Store Address:: Equinox - Bond Street Zero Bond Street New York, New York 10012<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Bond Street Zero Bond Street New York, New York 10012</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - East 74th Street 1429 2nd Ave New York, New York 10021</address>
+      <description><![CDATA[Store Address:: Equinox - East 74th Street 1429 2nd Ave New York, New York 10021<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - East 74th Street 1429 2nd Ave New York, New York 10021</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Brookfield Place 225 Liberty St New York, New York 10281</address>
+      <description><![CDATA[Store Address:: Equinox - Brookfield Place 225 Liberty St New York, New York 10281<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Brookfield Place 225 Liberty St New York, New York 10281</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Gramercy 315 Park Ave S New York, New York 10010</address>
+      <description><![CDATA[Store Address:: Equinox - Gramercy 315 Park Ave S New York, New York 10010<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Gramercy 315 Park Ave S New York, New York 10010</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - East 63rd Street 817 Lexington Ave New York, New York 10021</address>
+      <description><![CDATA[Store Address:: Equinox - East 63rd Street 817 Lexington Ave New York, New York 10021<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - East 63rd Street 817 Lexington Ave New York, New York 10021</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Wall Street 14 Wall St New York, New York 10005</address>
+      <description><![CDATA[Store Address:: Equinox - Wall Street 14 Wall St New York, New York 10005<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Wall Street 14 Wall St New York, New York 10005</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Brooklyn Heights 194 Joralemon St Brooklyn, New York 11201</address>
+      <description><![CDATA[Store Address:: Equinox - Brooklyn Heights 194 Joralemon St Brooklyn, New York 11201<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Brooklyn Heights 194 Joralemon St Brooklyn, New York 11201</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Printing House 421 Hudson St New York, New York 10014</address>
+      <description><![CDATA[Store Address:: Equinox - Printing House 421 Hudson St New York, New York 10014<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Printing House 421 Hudson St New York, New York 10014</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - High Line 100 10th Ave New York, New York 10011</address>
+      <description><![CDATA[Store Address:: Equinox - High Line 100 10th Ave New York, New York 10011<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - High Line 100 10th Ave New York, New York 10011</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Williamsburg 246 Bedford Ave Brooklyn, New York 11211</address>
+      <description><![CDATA[Store Address:: Equinox - Williamsburg 246 Bedford Ave Brooklyn, New York 11211<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Williamsburg 246 Bedford Ave Brooklyn, New York 11211</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - East 44th Street 420 Lexington Ave New York, New York 10170</address>
+      <description><![CDATA[Store Address:: Equinox - East 44th Street 420 Lexington Ave New York, New York 10170<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - East 44th Street 420 Lexington Ave New York, New York 10170</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Houston River Oaks 4444 Westheimer Rd Houston, Texas 77027</address>
+      <description><![CDATA[Store Address:: Equinox - Houston River Oaks 4444 Westheimer Rd Houston, Texas 77027<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Houston River Oaks 4444 Westheimer Rd Houston, Texas 77027</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Dallas Highland Park 4023 Oak Lawn Ave Dallas, Texas 75219</address>
+      <description><![CDATA[Store Address:: Equinox - Dallas Highland Park 4023 Oak Lawn Ave Dallas, Texas 75219<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Dallas Highland Park 4023 Oak Lawn Ave Dallas, Texas 75219</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Tysons Corner 8065 Leesburg Pike Vienna, Virginia 22182</address>
+      <description><![CDATA[Store Address:: Equinox - Tysons Corner 8065 Leesburg Pike Vienna, Virginia 22182<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Tysons Corner 8065 Leesburg Pike Vienna, Virginia 22182</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>Equinox - Sports Club Washington DC 1170 22nd St NW Washington, D.C. 20037</address>
+      <description><![CDATA[Store Address:: Equinox - Sports Club Washington DC 1170 22nd St NW Washington, D.C. 20037<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Equinox - Sports Club Washington DC 1170 22nd St NW Washington, D.C. 20037</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>MOMA Design Store - 53rd Street 44 West 53rd St New York, New York 10019</address>
+      <description><![CDATA[Store Address:: MOMA Design Store - 53rd Street 44 West 53rd St New York, New York 10019<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>MOMA Design Store - 53rd Street 44 West 53rd St New York, New York 10019</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Dagne Dover by Deepa, Jessy, and Melissa</name>
+      <address>MOMA Design Store - SOHO 81 Spring St New York, New York 10012</address>
+      <description><![CDATA[Store Address:: MOMA Design Store - SOHO 81 Spring St New York, New York 10012<br>Website:: https://www.dagnedover.com/<br>Category:: Accessories<br>Cost:: $$]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>MOMA Design Store - SOHO 81 Spring St New York, New York 10012</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.dagnedover.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Casa Artelexia 3803 Ray Street San Diego, California 92104</address>
+      <description><![CDATA[Store Address:: Casa Artelexia 3803 Ray Street San Diego, California 92104<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Casa Artelexia 3803 Ray Street San Diego, California 92104</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Ibiss Boutique 1100 Lincoln Ave San Jose, California</address>
+      <description><![CDATA[Store Address:: Ibiss Boutique 1100 Lincoln Ave San Jose, California<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Ibiss Boutique 1100 Lincoln Ave San Jose, California</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Karma Fashion Lounge 415 Alvarado St Monterey, California 93940</address>
+      <description><![CDATA[Store Address:: Karma Fashion Lounge 415 Alvarado St Monterey, California 93940<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Karma Fashion Lounge 415 Alvarado St Monterey, California 93940</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address><![CDATA[LUBA Gift Shop & Art Studio 1067 S 13th Sq. Vero Beach, Florida 32960]]></address>
+      <description><![CDATA[Store Address:: LUBA Gift Shop & Art Studio 1067 S 13th Sq. Vero Beach, Florida 32960<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[LUBA Gift Shop & Art Studio 1067 S 13th Sq. Vero Beach, Florida 32960]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Curio Goods 1046 Commercial Drive Tallahassee, Florida 32310</address>
+      <description><![CDATA[Store Address:: Curio Goods 1046 Commercial Drive Tallahassee, Florida 32310<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Curio Goods 1046 Commercial Drive Tallahassee, Florida 32310</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address><![CDATA[Please Don't Tell Shop, Aventura Mall Miami, Florida]]></address>
+      <description><![CDATA[Store Address:: Please Don't Tell Shop, Aventura Mall Miami, Florida<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[Please Don't Tell Shop, Aventura Mall Miami, Florida]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Luxe Apothetique 11501 Century Oaks Terrace Austin, Texas 78758</address>
+      <description><![CDATA[Store Address:: Luxe Apothetique 11501 Century Oaks Terrace Austin, Texas 78758<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Luxe Apothetique 11501 Century Oaks Terrace Austin, Texas 78758</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Luxe Apothetique 2nd Street District 201 W 2nd St Austin, Texas 78701</address>
+      <description><![CDATA[Store Address:: Luxe Apothetique 2nd Street District 201 W 2nd St Austin, Texas 78701<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Luxe Apothetique 2nd Street District 201 W 2nd St Austin, Texas 78701</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Luxe Boutique, 117 E Jackson Harlington, Texas 78550</address>
+      <description><![CDATA[Store Address:: Luxe Boutique, 117 E Jackson Harlington, Texas 78550<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Luxe Boutique, 117 E Jackson Harlington, Texas 78550</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>Maria Bonita Boutique 623 E St. Charles St Brownsville, Texas 78520</address>
+      <description><![CDATA[Store Address:: Maria Bonita Boutique 623 E St. Charles St Brownsville, Texas 78520<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Maria Bonita Boutique 623 E St. Charles St Brownsville, Texas 78520</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address>The Style Union 6308 N 10th St McAllen, Texas</address>
+      <description><![CDATA[Store Address:: The Style Union 6308 N 10th St McAllen, Texas <br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>The Style Union 6308 N 10th St McAllen, Texas </value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Jen Zeano Designs by Jen</name>
+      <address><![CDATA[Yaya's Closet 214 W Jackson Harlingen, Texas]]></address>
+      <description><![CDATA[Store Address:: Yaya's Closet 214 W Jackson Harlingen, Texas<br>Website:: https://jenzeanodesigns.com/<br>Category:: Accessories, Apparel<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[Yaya's Closet 214 W Jackson Harlingen, Texas]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://jenzeanodesigns.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories, Apparel</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>220 Summit Blvd
+Suite 168
+Birmingham, AL 35243</address>
+      <description><![CDATA[Store Address:: 220 Summit Blvd<br>Suite 168<br>Birmingham, AL 35243<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>220 Summit Blvd
+Suite 168
+Birmingham, AL 35243</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>15034 N. Scottsdale Rd
+Suite #120
+Scottsdale, AZ 85254</address>
+      <description><![CDATA[Store Address:: 15034 N. Scottsdale Rd<br>Suite #120<br>Scottsdale, AZ 85254<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>15034 N. Scottsdale Rd
+Suite #120
+Scottsdale, AZ 85254</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>400 S Baldwin Ave
+Arcadia, CA 91007</address>
+      <description><![CDATA[Store Address:: 400 S Baldwin Ave<br>Arcadia, CA 91007<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>400 S Baldwin Ave
+Arcadia, CA 91007</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1101 Brea Mall
+Brea, CA 92821</address>
+      <description><![CDATA[Store Address:: 1101 Brea Mall<br>Brea, CA 92821<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1101 Brea Mall
+Brea, CA 92821</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>6600 Topanga Canyon Blvd
+Space #2094
+Canoga Park, CA 91303</address>
+      <description><![CDATA[Store Address:: 6600 Topanga Canyon Blvd<br>Space #2094<br>Canoga Park, CA 91303<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>6600 Topanga Canyon Blvd
+Space #2094
+Canoga Park, CA 91303</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>5619 Bay St
+Emeryville, CA 94608</address>
+      <description><![CDATA[Store Address:: 5619 Bay St<br>Emeryville, CA 94608<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>5619 Bay St
+Emeryville, CA 94608</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>746 Spectrum Center Dr
+Suite #746
+Irvine, CA 92618</address>
+      <description><![CDATA[Store Address:: 746 Spectrum Center Dr<br>Suite #746<br>Irvine, CA 92618<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>746 Spectrum Center Dr
+Suite #746
+Irvine, CA 92618</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1087 Newport Center Dr
+Newport Beach, CA 92660</address>
+      <description><![CDATA[Store Address:: 1087 Newport Center Dr<br>Newport Beach, CA 92660<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1087 Newport Center Dr
+Newport Beach, CA 92660</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>180 El Camino Real
+#206B
+Palo Alto, CA 94304</address>
+      <description><![CDATA[Store Address:: 180 El Camino Real<br>#206B<br>Palo Alto, CA 94304<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>180 El Camino Real
+#206B
+Palo Alto, CA 94304</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>350 W Hillcrest Dr
+Thousand Oaks, CA 91360</address>
+      <description><![CDATA[Store Address:: 350 W Hillcrest Dr<br>Thousand Oaks, CA 91360<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>350 W Hillcrest Dr
+Thousand Oaks, CA 91360</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>21540 Hawthorne Blvd
+Space #410C
+Torrance, CA 90503</address>
+      <description><![CDATA[Store Address:: 21540 Hawthorne Blvd<br>Space #410C<br>Torrance, CA 90503<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>21540 Hawthorne Blvd
+Space #410C
+Torrance, CA 90503</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>3000 East 1st Ave
+Denver, CO 80206</address>
+      <description><![CDATA[Store Address:: 3000 East 1st Ave<br>Denver, CO 80206<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3000 East 1st Ave
+Denver, CO 80206</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>132 Christiana Rd
+Newark, DE 19702</address>
+      <description><![CDATA[Store Address:: 132 Christiana Rd<br>Newark, DE 19702<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>132 Christiana Rd
+Newark, DE 19702</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>36494 Seaside Outlet Dr
+Suite #1420
+Rehoboth Beach, DE 19971</address>
+      <description><![CDATA[Store Address:: 36494 Seaside Outlet Dr<br>Suite #1420<br>Rehoboth Beach, DE 19971<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>36494 Seaside Outlet Dr
+Suite #1420
+Rehoboth Beach, DE 19971</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>6000 Glades Rd
+Unit #1207E
+Boca Raton, FL 33431</address>
+      <description><![CDATA[Store Address:: 6000 Glades Rd<br>Unit #1207E<br>Boca Raton, FL 33431<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>6000 Glades Rd
+Unit #1207E
+Boca Raton, FL 33431</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1455 NW 107th Ave
+Space #744
+Doral, FL 33172</address>
+      <description><![CDATA[Store Address:: 1455 NW 107th Ave<br>Space #744<br>Doral, FL 33172<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1455 NW 107th Ave
+Space #744
+Doral, FL 33172</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1012 Las Olas Blvd
+Fort Lauderdale, FL 33301</address>
+      <description><![CDATA[Store Address:: 1012 Las Olas Blvd<br>Fort Lauderdale, FL 33301<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1012 Las Olas Blvd
+Fort Lauderdale, FL 33301</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>701 S Miami Ave Unit 351B Miami, FL 33130</address>
+      <description><![CDATA[Store Address:: 701 S Miami Ave Unit 351B Miami, FL 33130<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>701 S Miami Ave Unit 351B Miami, FL 33130</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>7535 North Kendall Drive Space #1560 Miami, FL 33156</address>
+      <description><![CDATA[Store Address:: 7535 North Kendall Drive Space #1560 Miami, FL 33156<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>7535 North Kendall Drive Space #1560 Miami, FL 33156</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>8888 SW 136th St Miami, FL 33176</address>
+      <description><![CDATA[Store Address:: 8888 SW 136th St Miami, FL 33176<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>8888 SW 136th St Miami, FL 33176</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>541 Lincoln Rd
+Miami Beach, FL 33139</address>
+      <description><![CDATA[Store Address:: 541 Lincoln Rd<br>Miami Beach, FL 33139<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>541 Lincoln Rd
+Miami Beach, FL 33139</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1668 East Buena Vista Blvd
+Suite #1Q
+Orlando, FL 32830</address>
+      <description><![CDATA[Store Address:: 1668 East Buena Vista Blvd<br>Suite #1Q<br>Orlando, FL 32830<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1668 East Buena Vista Blvd
+Suite #1Q
+Orlando, FL 32830</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>3101 PGA Blvd
+Suite #M203
+Palm Beach Gardens, FL 33410</address>
+      <description><![CDATA[Store Address:: 3101 PGA Blvd<br>Suite #M203<br>Palm Beach Gardens, FL 33410<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3101 PGA Blvd
+Suite #M203
+Palm Beach Gardens, FL 33410</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>11401 Pines Blvd
+Unit 124
+Pembroke Pines, FL 33026</address>
+      <description><![CDATA[Store Address:: 11401 Pines Blvd<br>Unit 124<br>Pembroke Pines, FL 33026<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>11401 Pines Blvd
+Unit 124
+Pembroke Pines, FL 33026</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2223 N. Westshore Blvd.
+Space #226
+Tampa, FL 33607</address>
+      <description><![CDATA[Store Address:: 2223 N. Westshore Blvd.<br>Space #226<br>Tampa, FL 33607<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2223 N. Westshore Blvd.
+Space #226
+Tampa, FL 33607</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>10300 Forest hill Blvd
+Unit 282
+Wellington, FL 33414</address>
+      <description><![CDATA[Store Address:: 10300 Forest hill Blvd<br>Unit 282<br>Wellington, FL 33414<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>10300 Forest hill Blvd
+Unit 282
+Wellington, FL 33414</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>356 S Park Ave
+Winter Park, FL 32789</address>
+      <description><![CDATA[Store Address:: 356 S Park Ave<br>Winter Park, FL 32789<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>356 S Park Ave
+Winter Park, FL 32789</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>3393 Peachtree Rd Atlanta, GA 30326</address>
+      <description><![CDATA[Store Address:: 3393 Peachtree Rd Atlanta, GA 30326<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3393 Peachtree Rd Atlanta, GA 30326</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>675 Ponce de Leon Ave NE Atlanta, GA 30308</address>
+      <description><![CDATA[Store Address:: 675 Ponce de Leon Ave NE Atlanta, GA 30308<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>675 Ponce de Leon Ave NE Atlanta, GA 30308</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1450 Ala Moana Blvd
+Suite #3825
+Honolulu, HI 96814</address>
+      <description><![CDATA[Store Address:: 1450 Ala Moana Blvd<br>Suite #3825<br>Honolulu, HI 96814<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1450 Ala Moana Blvd
+Suite #3825
+Honolulu, HI 96814</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address><![CDATA[2435 Ka'anapali Pkwy
+Suite #I-30
+Lahaina, HI 96761]]></address>
+      <description><![CDATA[Store Address:: 2435 Ka'anapali Pkwy<br>Suite #I-30<br>Lahaina, HI 96761<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[2435 Ka'anapali Pkwy
+Suite #I-30
+Lahaina, HI 96761]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>520 N Michigan Ave
+Suite #130
+Chicago, IL 60611</address>
+      <description><![CDATA[Store Address:: 520 N Michigan Ave<br>Suite #130<br>Chicago, IL 60611<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>520 N Michigan Ave
+Suite #130
+Chicago, IL 60611</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>405 Oakbrook Center
+Oak Brook, IL 60523</address>
+      <description><![CDATA[Store Address:: 405 Oakbrook Center<br>Oak Brook, IL 60523<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>405 Oakbrook Center
+Oak Brook, IL 60523</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>544 Orland Square Dr
+Suite #E12A
+Orland Park, IL 60462</address>
+      <description><![CDATA[Store Address:: 544 Orland Square Dr<br>Suite #E12A<br>Orland Park, IL 60462<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>544 Orland Square Dr
+Suite #E12A
+Orland Park, IL 60462</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>5 Woodfield Mall
+Suite #E134B
+Schaumburg, IL 60173</address>
+      <description><![CDATA[Store Address:: 5 Woodfield Mall<br>Suite #E134B<br>Schaumburg, IL 60173<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>5 Woodfield Mall
+Suite #E134B
+Schaumburg, IL 60173</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>8702 Keystone Crossing Blvd
+Space #123D
+Indianapolis, IN 46240</address>
+      <description><![CDATA[Store Address:: 8702 Keystone Crossing Blvd<br>Space #123D<br>Indianapolis, IN 46240<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>8702 Keystone Crossing Blvd
+Space #123D
+Indianapolis, IN 46240</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>161 Main St
+Annapolis, MD 21401</address>
+      <description><![CDATA[Store Address:: 161 Main St<br>Annapolis, MD 21401<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>161 Main St
+Annapolis, MD 21401</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>7101 Democracy Blvd
+Bethesda, MD 20817</address>
+      <description><![CDATA[Store Address:: 7101 Democracy Blvd<br>Bethesda, MD 20817<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>7101 Democracy Blvd
+Bethesda, MD 20817</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>180-A Waterfront Street
+Oxon Hill, MD 20745</address>
+      <description><![CDATA[Store Address:: 180-A Waterfront Street<br>Oxon Hill, MD 20745<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>180-A Waterfront Street
+Oxon Hill, MD 20745</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>825 Dulaney Valley Rd
+Suite #4085
+Towson, MD 21204</address>
+      <description><![CDATA[Store Address:: 825 Dulaney Valley Rd<br>Suite #4085<br>Towson, MD 21204<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>825 Dulaney Valley Rd
+Suite #4085
+Towson, MD 21204</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>115 Newbury Street
+Boston, MA 02116</address>
+      <description><![CDATA[Store Address:: 115 Newbury Street<br>Boston, MA 02116<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>115 Newbury Street
+Boston, MA 02116</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>75 Middlesex Turnpike
+Space 2203A
+Burlington, MA 01803</address>
+      <description><![CDATA[Store Address:: 75 Middlesex Turnpike<br>Space 2203A<br>Burlington, MA 01803<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>75 Middlesex Turnpike
+Space 2203A
+Burlington, MA 01803</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>260 Patriot Pl
+Foxborough, MA 02035</address>
+      <description><![CDATA[Store Address:: 260 Patriot Pl<br>Foxborough, MA 02035<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>260 Patriot Pl
+Foxborough, MA 02035</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>150 W Maple Rd
+Birmingham, MI 48009</address>
+      <description><![CDATA[Store Address:: 150 W Maple Rd<br>Birmingham, MI 48009<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>150 W Maple Rd
+Birmingham, MI 48009</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>17420 Hall Rd
+Suite #117
+Clinton Township, MI 48038</address>
+      <description><![CDATA[Store Address:: 17420 Hall Rd<br>Suite #117<br>Clinton Township, MI 48038<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>17420 Hall Rd
+Suite #117
+Clinton Township, MI 48038</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>27500 Novi Rd
+Novi, MI 48377</address>
+      <description><![CDATA[Store Address:: 27500 Novi Rd<br>Novi, MI 48377<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>27500 Novi Rd
+Novi, MI 48377</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2800 Big Beaver Rd
+Suite #M-144
+Troy, MI 48084</address>
+      <description><![CDATA[Store Address:: 2800 Big Beaver Rd<br>Suite #M-144<br>Troy, MI 48084<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2800 Big Beaver Rd
+Suite #M-144
+Troy, MI 48084</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>158 South Ave
+Bloomington, MN 55425</address>
+      <description><![CDATA[Store Address:: 158 South Ave<br>Bloomington, MN 55425<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>158 South Ave
+Bloomington, MN 55425</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1155 Saint Louis Galleria
+Suite #2429
+St. Louis, MO 63117</address>
+      <description><![CDATA[Store Address:: 1155 Saint Louis Galleria<br>Suite #2429<br>St. Louis, MO 63117<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1155 Saint Louis Galleria
+Suite #2429
+St. Louis, MO 63117</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>3200 S Las Vegas Blvd Fashion Show Mall Las Vegas, NV 89109</address>
+      <description><![CDATA[Store Address:: 3200 S Las Vegas Blvd Fashion Show Mall Las Vegas, NV 89109<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3200 S Las Vegas Blvd Fashion Show Mall Las Vegas, NV 89109</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>3355 S Las Vegas Blvd Suite #E-2387 Las Vegas, NV 89109</address>
+      <description><![CDATA[Store Address:: 3355 S Las Vegas Blvd Suite #E-2387 Las Vegas, NV 89109<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3355 S Las Vegas Blvd Suite #E-2387 Las Vegas, NV 89109</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>3641 Las Vegas Blvd South Las Vegas, NV 89109</address>
+      <description><![CDATA[Store Address:: 3641 Las Vegas Blvd South Las Vegas, NV 89109<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3641 Las Vegas Blvd South Las Vegas, NV 89109</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>3663 S Las Vegas Blvd Suite #55 Las Vegas, NV 89109</address>
+      <description><![CDATA[Store Address:: 3663 S Las Vegas Blvd Suite #55 Las Vegas, NV 89109<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3663 S Las Vegas Blvd Suite #55 Las Vegas, NV 89109</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>5757 Wayne Newton Blvd McCarran International Airport D-Gates Las Vegas, NV 89119</address>
+      <description><![CDATA[Store Address:: 5757 Wayne Newton Blvd McCarran International Airport D-Gates Las Vegas, NV 89119<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>5757 Wayne Newton Blvd McCarran International Airport D-Gates Las Vegas, NV 89119</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>5757 Wayne Newton Blvd McCarran International Airport C-Gates Las Vegas, NV 89119</address>
+      <description><![CDATA[Store Address:: 5757 Wayne Newton Blvd McCarran International Airport C-Gates Las Vegas, NV 89119<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>5757 Wayne Newton Blvd McCarran International Airport C-Gates Las Vegas, NV 89119</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>875 S Grand Central Pkwy Suite #1668 Las Vegas, NV 89106</address>
+      <description><![CDATA[Store Address:: 875 S Grand Central Pkwy Suite #1668 Las Vegas, NV 89106<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>875 S Grand Central Pkwy Suite #1668 Las Vegas, NV 89106</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>400 Commons Way
+Bridgewater, NJ 08807</address>
+      <description><![CDATA[Store Address:: 400 Commons Way<br>Bridgewater, NJ 08807<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>400 Commons Way
+Bridgewater, NJ 08807</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2000 Route 38
+Unit #1773
+Cherry Hill, NJ 08002</address>
+      <description><![CDATA[Store Address:: 2000 Route 38<br>Unit #1773<br>Cherry Hill, NJ 08002<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2000 Route 38
+Unit #1773
+Cherry Hill, NJ 08002</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>651 Kapkowski Rd
+Suite #1274
+Elizabeth, NJ 07201</address>
+      <description><![CDATA[Store Address:: 651 Kapkowski Rd<br>Suite #1274<br>Elizabeth, NJ 07201<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>651 Kapkowski Rd
+Suite #1274
+Elizabeth, NJ 07201</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>3710 Route 9
+Freehold, NJ 07728</address>
+      <description><![CDATA[Store Address:: 3710 Route 9<br>Freehold, NJ 07728<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3710 Route 9
+Freehold, NJ 07728</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>One Garden State Plaza Blvd Paramus, NJ 07652</address>
+      <description><![CDATA[Store Address:: One Garden State Plaza Blvd Paramus, NJ 07652<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>One Garden State Plaza Blvd Paramus, NJ 07652</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>134 E Ridgewood Ave
+Ridgewood, NJ 07450</address>
+      <description><![CDATA[Store Address:: 134 E Ridgewood Ave<br>Ridgewood, NJ 07450<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>134 E Ridgewood Ave
+Ridgewood, NJ 07450</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>200 E Broad St
+Westfield, NJ 07090</address>
+      <description><![CDATA[Store Address:: 200 E Broad St<br>Westfield, NJ 07090<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>200 E Broad St
+Westfield, NJ 07090</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>630 Old Country Rd
+Garden City, NY 11530</address>
+      <description><![CDATA[Store Address:: 630 Old Country Rd<br>Garden City, NY 11530<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>630 Old Country Rd
+Garden City, NY 11530</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>425 W Broadway
+New York, NY 10012</address>
+      <description><![CDATA[Store Address:: 425 W Broadway<br>New York, NY 10012<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>425 W Broadway
+New York, NY 10012</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>145 Culver Road Armory
+Rochester, NY 14620</address>
+      <description><![CDATA[Store Address:: 145 Culver Road Armory<br>Rochester, NY 14620<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>145 Culver Road Armory
+Rochester, NY 14620</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>236 High St Extension
+Victor, NY 14564</address>
+      <description><![CDATA[Store Address:: 236 High St Extension<br>Victor, NY 14564<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>236 High St Extension
+Victor, NY 14564</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>5429 Main St
+Williamsville, NY 14221</address>
+      <description><![CDATA[Store Address:: 5429 Main St<br>Williamsville, NY 14221<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>5429 Main St
+Williamsville, NY 14221</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>346 King St
+Charleston, SC 29401</address>
+      <description><![CDATA[Store Address:: 346 King St<br>Charleston, SC 29401<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>346 King St
+Charleston, SC 29401</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>51 S Main St
+Suite #132
+Salt Lake City, UT 84111</address>
+      <description><![CDATA[Store Address:: 51 S Main St<br>Suite #132<br>Salt Lake City, UT 84111<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>51 S Main St
+Suite #132
+Salt Lake City, UT 84111</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2500 N Mayfair Rd
+Wauwatosa, WI 53226</address>
+      <description><![CDATA[Store Address:: 2500 N Mayfair Rd<br>Wauwatosa, WI 53226<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2500 N Mayfair Rd
+Wauwatosa, WI 53226</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>4400 Sharon Rd
+Suite #G27A
+Charlotte, NC 28211</address>
+      <description><![CDATA[Store Address:: 4400 Sharon Rd<br>Suite #G27A<br>Charlotte, NC 28211<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>4400 Sharon Rd
+Suite #G27A
+Charlotte, NC 28211</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>4325 Glenwood Ave
+Suite #2094
+Raleigh, NC 27612</address>
+      <description><![CDATA[Store Address:: 4325 Glenwood Ave<br>Suite #2094<br>Raleigh, NC 27612<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>4325 Glenwood Ave
+Suite #2094
+Raleigh, NC 27612</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>26300 Cedar Rd
+Beachwood, OH 44122</address>
+      <description><![CDATA[Store Address:: 26300 Cedar Rd<br>Beachwood, OH 44122<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>26300 Cedar Rd
+Beachwood, OH 44122</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>7875 Montgomery Rd
+Suite #2135
+Cincinnati, OH 45236</address>
+      <description><![CDATA[Store Address:: 7875 Montgomery Rd<br>Suite #2135<br>Cincinnati, OH 45236<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>7875 Montgomery Rd
+Suite #2135
+Cincinnati, OH 45236</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>160 N Gluph Rd
+Space #1205A
+King of Prussia, PA 19406</address>
+      <description><![CDATA[Store Address:: 160 N Gluph Rd<br>Space #1205A<br>King of Prussia, PA 19406<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>160 N Gluph Rd
+Space #1205A
+King of Prussia, PA 19406</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1000 Ross Park Mall Dr Space #L14A Pittsburgh, PA 15237</address>
+      <description><![CDATA[Store Address:: 1000 Ross Park Mall Dr Space #L14A Pittsburgh, PA 15237<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1000 Ross Park Mall Dr Space #L14A Pittsburgh, PA 15237</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>5505 Walnut St Pittsburgh, PA 15232</address>
+      <description><![CDATA[Store Address:: 5505 Walnut St Pittsburgh, PA 15232<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>5505 Walnut St Pittsburgh, PA 15232</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2000 Chapel View Blvd
+Cranston, RI 02920</address>
+      <description><![CDATA[Store Address:: 2000 Chapel View Blvd<br>Cranston, RI 02920<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2000 Chapel View Blvd
+Cranston, RI 02920</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address><![CDATA[One Bowen's Wharf
+Newport, RI 02840]]></address>
+      <description><![CDATA[Store Address:: One Bowen's Wharf<br>Newport, RI 02840<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value><![CDATA[One Bowen's Wharf
+Newport, RI 02840]]></value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2126 Abbot Martin Rd
+Suite #162
+Nashville, TN 37215</address>
+      <description><![CDATA[Store Address:: 2126 Abbot Martin Rd<br>Suite #162<br>Nashville, TN 37215<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2126 Abbot Martin Rd
+Suite #162
+Nashville, TN 37215</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1645 Parkway
+Suite #1270
+Sevierville, TN 37862</address>
+      <description><![CDATA[Store Address:: 1645 Parkway<br>Suite #1270<br>Sevierville, TN 37862<br><br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1645 Parkway
+Suite #1270
+Sevierville, TN 37862
+</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>11700 Rock Rose Ave
+Suite #170
+Austin, TX 78758</address>
+      <description><![CDATA[Store Address:: 11700 Rock Rose Ave<br>Suite #170<br>Austin, TX 78758<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>11700 Rock Rose Ave
+Suite #170
+Austin, TX 78758</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>5234 Marathon Ave
+Suite #H250
+Fort Worth, TX 76109</address>
+      <description><![CDATA[Store Address:: 5234 Marathon Ave<br>Suite #H250<br>Fort Worth, TX 76109<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>5234 Marathon Ave
+Suite #H250
+Fort Worth, TX 76109</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>700 Baybrook Mall
+Suite #A111
+Friendswood, TX 77546</address>
+      <description><![CDATA[Store Address:: 700 Baybrook Mall<br>Suite #A111<br>Friendswood, TX 77546<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>700 Baybrook Mall
+Suite #A111
+Friendswood, TX 77546</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2601 Preston Rd
+Suite #1053
+Frisco, TX 75034</address>
+      <description><![CDATA[Store Address:: 2601 Preston Rd<br>Suite #1053<br>Frisco, TX 75034<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2601 Preston Rd
+Suite #1053
+Frisco, TX 75034</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>400 San Pedro Ave
+San Antonio, TX 78216</address>
+      <description><![CDATA[Store Address:: 400 San Pedro Ave<br>San Antonio, TX 78216<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>400 San Pedro Ave
+San Antonio, TX 78216</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>9595 Six Pines Dr
+Suite #1035
+The Woodlands, TX 77380</address>
+      <description><![CDATA[Store Address:: 9595 Six Pines Dr<br>Suite #1035<br>The Woodlands, TX 77380<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>9595 Six Pines Dr
+Suite #1035
+The Woodlands, TX 77380</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2050 Bond St
+Suite #160
+Charlottesville, VA 22901</address>
+      <description><![CDATA[Store Address:: 2050 Bond St<br>Suite #160<br>Charlottesville, VA 22901<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2050 Bond St
+Suite #160
+Charlottesville, VA 22901</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>2905 District Ave
+Suite #145
+Fairfax, VA 22031</address>
+      <description><![CDATA[Store Address:: 2905 District Ave<br>Suite #145<br>Fairfax, VA 22031<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2905 District Ave
+Suite #145
+Fairfax, VA 22031</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>1961 Chain Bridge Road
+McLean, VA 22102</address>
+      <description><![CDATA[Store Address:: 1961 Chain Bridge Road<br>McLean, VA 22102<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1961 Chain Bridge Road
+McLean, VA 22102</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Alex & Ani by Carolyn]]></name>
+      <address>11800 W Broad St
+Richmond, VA 23233</address>
+      <description><![CDATA[Store Address:: 11800 W Broad St<br>Richmond, VA 23233<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>11800 W Broad St
+Richmond, VA 23233</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>150 S. La Brea Ave.
+Los Angeles, CA 90036</address>
+      <description><![CDATA[Store Address:: 150 S. La Brea Ave.<br>Los Angeles, CA 90036<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>150 S. La Brea Ave.
+Los Angeles, CA 90036</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>1121 Abbot Kinney Blvd Ste 2
+Venice, California 90291</address>
+      <description><![CDATA[Store Address:: 1121 Abbot Kinney Blvd Ste 2<br>Venice, California 90291<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1121 Abbot Kinney Blvd Ste 2
+Venice, California 90291</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>1318 E 7th Street, Suite 126
+Los Angeles, California 90021</address>
+      <description><![CDATA[Store Address:: 1318 E 7th Street, Suite 126<br>Los Angeles, California 90021<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1318 E 7th Street, Suite 126
+Los Angeles, California 90021</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>3801 30th Street
+San Diego, CA 92104</address>
+      <description><![CDATA[Store Address:: 3801 30th Street<br>San Diego, CA 92104<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3801 30th Street
+San Diego, CA 92104</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>2885 Perry Road
+San Diego, CA 92106</address>
+      <description><![CDATA[Store Address:: 2885 Perry Road<br>San Diego, CA 92106<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>2885 Perry Road
+San Diego, CA 92106</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>22 OCTAVIA STREET 
+SAN FRANCISCO, CA 94102</address>
+      <description><![CDATA[Store Address:: 22 OCTAVIA STREET <br>SAN FRANCISCO, CA 94102<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>22 OCTAVIA STREET 
+SAN FRANCISCO, CA 94102</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>1939-1/2 Hillhurst Ave
+
+Los Angeles, CA 90027</address>
+      <description><![CDATA[Store Address:: 1939-1/2 Hillhurst Ave<br><br>Los Angeles, CA 90027<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1939-1/2 Hillhurst Ave
+
+Los Angeles, CA 90027</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>7401 Melrose Ave
+
+Los Angeles, CA 90046</address>
+      <description><![CDATA[Store Address:: 7401 Melrose Ave<br><br>Los Angeles, CA 90046<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>7401 Melrose Ave
+
+Los Angeles, CA 90046</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>103 Franklin Street New York, NY 10013</address>
+      <description><![CDATA[Store Address:: 103 Franklin Street New York, NY 10013<br><br><br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>103 Franklin Street New York, NY 10013
+
+</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>347 Atlantic Avenue Brooklyn, NY 11217</address>
+      <description><![CDATA[Store Address:: 347 Atlantic Avenue Brooklyn, NY 11217<br><br><br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>347 Atlantic Avenue Brooklyn, NY 11217
+
+</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>465 Amsterdam Avenue New York, NY 10024</address>
+      <description><![CDATA[Store Address:: 465 Amsterdam Avenue New York, NY 10024<br><br><br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>465 Amsterdam Avenue New York, NY 10024
+
+</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>180 Morris St #170,Sebastopol, CA 95472</address>
+      <description><![CDATA[Store Address:: 180 Morris St #170,Sebastopol, CA 95472<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>180 Morris St #170,Sebastopol, CA 95472</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>418 Healdsburg Ave. Healdsburg, CA 95448</address>
+      <description><![CDATA[Store Address:: 418 Healdsburg Ave. Healdsburg, CA 95448<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>418 Healdsburg Ave. Healdsburg, CA 95448</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>365 Valencia St San Francisco, CA</address>
+      <description><![CDATA[Store Address:: 365 Valencia St San Francisco, CA <br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>365 Valencia St San Francisco, CA </value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>300 South Santa Fe Los Angeles, CA</address>
+      <description><![CDATA[Store Address:: 300 South Santa Fe Los Angeles, CA<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>300 South Santa Fe Los Angeles, CA</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>MVM MIAMI
+2119 NW 2nd Avenue
+Miami, FL. 33127</address>
+      <description><![CDATA[Store Address:: MVM MIAMI<br>2119 NW 2nd Avenue<br>Miami, FL. 33127<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>MVM MIAMI
+2119 NW 2nd Avenue
+Miami, FL. 33127</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>103 Franklin Street New York, NY 10013</address>
+      <description><![CDATA[Store Address:: 103 Franklin Street New York, NY 10013<br><br><br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>103 Franklin Street New York, NY 10013
+
+</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>347 Atlantic Avenue Brooklyn, NY 11217</address>
+      <description><![CDATA[Store Address:: 347 Atlantic Avenue Brooklyn, NY 11217<br><br><br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>347 Atlantic Avenue Brooklyn, NY 11217
+
+</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>465 Amsterdam Avenue New York, NY 10024</address>
+      <description><![CDATA[Store Address:: 465 Amsterdam Avenue New York, NY 10024<br><br><br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>465 Amsterdam Avenue New York, NY 10024
+
+</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>7192 Kalanianaole Hwy. Suite D100  Honolulu, HI 96825</address>
+      <description><![CDATA[Store Address:: 7192 Kalanianaole Hwy. Suite D100  Honolulu, HI 96825<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>7192 Kalanianaole Hwy. Suite D100  Honolulu, HI 96825</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>1815 N MILWAUKEE AVE
+CHICAGO, IL 60647</address>
+      <description><![CDATA[Store Address:: 1815 N MILWAUKEE AVE<br>CHICAGO, IL 60647<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1815 N MILWAUKEE AVE
+CHICAGO, IL 60647</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>15 East 1st Street
+Hinsdale, Illinois 60521</address>
+      <description><![CDATA[Store Address:: 15 East 1st Street<br>Hinsdale, Illinois 60521<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>15 East 1st Street
+Hinsdale, Illinois 60521</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>4573 West 119th St.
+Leawood, KS 66209</address>
+      <description><![CDATA[Store Address:: 4573 West 119th St.<br>Leawood, KS 66209<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>4573 West 119th St.
+Leawood, KS 66209</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>422 Nichols Road
+Kansas City, MO 64112</address>
+      <description><![CDATA[Store Address:: 422 Nichols Road<br>Kansas City, MO 64112<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>422 Nichols Road
+Kansas City, MO 64112</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>Bing Bang Nyc Studio 13 Division St, Flr 2 -  Manhattan</address>
+      <description><![CDATA[Store Address:: Bing Bang Nyc Studio 13 Division St, Flr 2 -  Manhattan<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Bing Bang Nyc Studio 13 Division St, Flr 2 -  Manhattan</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>3909 W 50th St.
+Edina, MN 55424</address>
+      <description><![CDATA[Store Address:: 3909 W 50th St.<br>Edina, MN 55424<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3909 W 50th St.
+Edina, MN 55424</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>219 N 2nd St.
+Minneapolis, MN 55401</address>
+      <description><![CDATA[Store Address:: 219 N 2nd St.<br>Minneapolis, MN 55401<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>219 N 2nd St.
+Minneapolis, MN 55401</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>Article and 198 Smith Street Brooklyn, New York 11201</address>
+      <description><![CDATA[Store Address:: Article and 198 Smith Street Brooklyn, New York 11201<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>Article and 198 Smith Street Brooklyn, New York 11201</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>466 Bergen Street Park Slope, Brooklyn, NY 11217</address>
+      <description><![CDATA[Store Address:: 466 Bergen Street Park Slope, Brooklyn, NY 11217 <br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>466 Bergen Street Park Slope, Brooklyn, NY 11217 </value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>401 N Beverly DriveBeverly Hills,  California
+90210</address>
+      <description><![CDATA[Store Address:: 401 N Beverly DriveBeverly Hills,  California<br>90210<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>401 N Beverly DriveBeverly Hills,  California
+90210</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>37 Orchard St New York, New York 10002</address>
+      <description><![CDATA[Store Address:: 37 Orchard St New York, New York 10002<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>37 Orchard St New York, New York 10002</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>7943 Jericho Turnpike 
+Woodbury, NY 11797</address>
+      <description><![CDATA[Store Address:: 7943 Jericho Turnpike <br>Woodbury, NY 11797<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>7943 Jericho Turnpike 
+Woodbury, NY 11797</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>107 Franklin St Brooklyn, New York 11222</address>
+      <description><![CDATA[Store Address:: 107 Franklin St Brooklyn, New York 11222<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>107 Franklin St Brooklyn, New York 11222</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>382 Atlantic Ave. 
+Brooklyn, NY 11217</address>
+      <description><![CDATA[Store Address:: 382 Atlantic Ave. <br>Brooklyn, NY 11217<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>382 Atlantic Ave. 
+Brooklyn, NY 11217</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>19 East 9th Street New York, New York 10003</address>
+      <description><![CDATA[Store Address:: 19 East 9th Street New York, New York 10003<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>19 East 9th Street New York, New York 10003</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>35 E. 1st St.
+New York, NY 10003</address>
+      <description><![CDATA[Store Address:: 35 E. 1st St.<br>New York, NY 10003<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>35 E. 1st St.
+New York, NY 10003</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>1055 Military Cutoff Rd # 103, 
+Wilmington, NC 28405</address>
+      <description><![CDATA[Store Address:: 1055 Military Cutoff Rd # 103, <br>Wilmington, NC 28405<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1055 Military Cutoff Rd # 103, 
+Wilmington, NC 28405</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>1136 SW Alder Street
+
+Portland, OR 97205</address>
+      <description><![CDATA[Store Address:: 1136 SW Alder Street<br><br>Portland, OR 97205<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1136 SW Alder Street
+
+Portland, OR 97205</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>153 North Third Street Philadelphoa, PA 19106</address>
+      <description><![CDATA[Store Address:: 153 North Third Street Philadelphoa, PA 19106<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>153 North Third Street Philadelphoa, PA 19106</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>4400 Lovers Lane Dallas, TX 75225</address>
+      <description><![CDATA[Store Address:: 4400 Lovers Lane Dallas, TX 75225<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>4400 Lovers Lane Dallas, TX 75225</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>1200 East 11th Street #104 Austin, Texas</address>
+      <description><![CDATA[Store Address:: 1200 East 11th Street #104 Austin, Texas <br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1200 East 11th Street #104 Austin, Texas </value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>1210 SE Grand Ave Portland, OR</address>
+      <description><![CDATA[Store Address:: 1210 SE Grand Ave Portland, OR<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>1210 SE Grand Ave Portland, OR</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>The Tiny Finch 302 Pearl Parkway Suite 116 San Antonio, Texas 18215</address>
+      <description><![CDATA[Store Address:: The Tiny Finch 302 Pearl Parkway Suite 116 San Antonio, Texas 18215<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>The Tiny Finch 302 Pearl Parkway Suite 116 San Antonio, Texas 18215</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>343 Main Street Franklin, TN</address>
+      <description><![CDATA[Store Address:: 343 Main Street Franklin, TN<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>343 Main Street Franklin, TN</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>511 Main St Park City, UT 84060</address>
+      <description><![CDATA[Store Address:: 511 Main St Park City, UT 84060<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>511 Main St Park City, UT 84060</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Bing Bang by Anna</name>
+      <address>3100 West Cary Street Richmond, Virginia 23221</address>
+      <description><![CDATA[Store Address:: 3100 West Cary Street Richmond, Virginia 23221<br>Website:: https://www.alexandani.com/<br>Category:: Accessories<br>Cost:: $]]></description>
+      <styleUrl>#icon-1899-DB4436</styleUrl>
+      <ExtendedData>
+        <Data name="Store Address:">
+          <value>3100 West Cary Street Richmond, Virginia 23221</value>
+        </Data>
+        <Data name="Website:">
+          <value>https://www.alexandani.com/</value>
+        </Data>
+        <Data name="Category:">
+          <value>Accessories</value>
+        </Data>
+        <Data name="Cost:">
+          <value>$</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>
